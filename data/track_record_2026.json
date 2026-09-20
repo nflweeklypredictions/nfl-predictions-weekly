@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 14,
-    "total": 17
+    "correct": 15,
+    "total": 19
   },
   "weeks": {
     "1": {
@@ -10,8 +10,8 @@
       "total": 16
     },
     "2": {
-      "correct": 1,
-      "total": 1
+      "correct": 2,
+      "total": 3
     }
   },
   "teams": {
@@ -20,8 +20,8 @@
       "total": 1
     },
     "NE": {
-      "correct": 1,
-      "total": 1
+      "correct": 2,
+      "total": 2
     },
     "LA": {
       "correct": 0,
@@ -53,7 +53,7 @@
     },
     "NO": {
       "correct": 1,
-      "total": 1
+      "total": 2
     },
     "HOU": {
       "correct": 1,
@@ -69,7 +69,7 @@
     },
     "BAL": {
       "correct": 1,
-      "total": 1
+      "total": 2
     },
     "JAX": {
       "correct": 1,
@@ -80,8 +80,8 @@
       "total": 1
     },
     "PIT": {
-      "correct": 1,
-      "total": 1
+      "correct": 2,
+      "total": 2
     },
     "ATL": {
       "correct": 1,
@@ -145,7 +145,7 @@
     }
   },
   "ats_overall": {
-    "wins": 7,
+    "wins": 9,
     "losses": 9,
     "pushes": 1
   },
@@ -156,7 +156,7 @@
       "pushes": 1
     },
     "2": {
-      "wins": 0,
+      "wins": 2,
       "losses": 1,
       "pushes": 0
     }
