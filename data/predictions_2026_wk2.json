@@ -1025,7 +1025,7 @@
       },
       "qb_watch": null,
       "home_team_injuries": [
-        "Carlton Davis III (CB) listed as Questionable (Neck)",
+        "Carlton Davis III (CB) listed as Out (Neck)",
         "Dre'Mont Jones (LB) listed as Questionable (Foot)",
         "Ben Brown (C) listed as Questionable (Knee)",
         "Dametrious Crownover (T) listed as Out (Knee)"
@@ -1376,6 +1376,7 @@
         "Jacob Parrish (CB) listed as Questionable (Back)"
       ],
       "away_team_injuries": [
+        "Noah Igbinoghene (CB) listed as Questionable (Hand)",
         "Teven Jenkins (G) listed as Out (Back)",
         "Tyson Campbell (CB) listed as Questionable (Ankle)"
       ]
@@ -2056,7 +2057,7 @@
       "away_team_injuries": [
         "Sam Darnold (QB) listed as Out (Glute)",
         "Ty Okada (S) listed as Out (Hamstring)",
-        "Anthony Bradford (G) listed as Questionable (Knee, Hip)",
+        "Anthony Bradford (G) listed as Out (Knee, Hip)",
         "Nick Emmanwori (S) listed as Questionable (Ankle, Hip)"
       ],
       "away_qb_injury_alert": "Sam Darnold listed as Out (Glute) on this week's official injury report."
@@ -2729,8 +2730,15 @@
         "note": "Model margin is +0.4 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Puka Nacua (WR) listed as Questionable (Hip)",
+        "Jordan Whittington (WR) listed as Doubtful (Quadricep)",
+        "Kamren Kinchens (S) listed as Out (Hamstring)"
+      ],
+      "away_team_injuries": [
+        "Micah McFadden (LB) listed as Questionable (Neck)",
+        "Deonte Banks (CB) listed as Questionable (Calf)"
+      ]
     }
   ]
 }
