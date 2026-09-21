@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 20,
-    "total": 30
+    "correct": 21,
+    "total": 31
   },
   "weeks": {
     "1": {
@@ -10,8 +10,8 @@
       "total": 16
     },
     "2": {
-      "correct": 7,
-      "total": 14
+      "correct": 8,
+      "total": 15
     }
   },
   "teams": {
@@ -64,8 +64,8 @@
       "total": 2
     },
     "IND": {
-      "correct": 1,
-      "total": 1
+      "correct": 2,
+      "total": 2
     },
     "BAL": {
       "correct": 1,
@@ -136,8 +136,8 @@
       "total": 2
     },
     "KC": {
-      "correct": 1,
-      "total": 1
+      "correct": 2,
+      "total": 2
     },
     "DEN": {
       "correct": 1,
@@ -145,7 +145,7 @@
     }
   },
   "ats_overall": {
-    "wins": 11,
+    "wins": 12,
     "losses": 18,
     "pushes": 1
   },
@@ -156,7 +156,7 @@
       "pushes": 1
     },
     "2": {
-      "wins": 4,
+      "wins": 5,
       "losses": 10,
       "pushes": 0
     }
