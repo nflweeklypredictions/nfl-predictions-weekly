@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 21,
-    "total": 31
+    "correct": 22,
+    "total": 32
   },
   "weeks": {
     "1": {
@@ -10,8 +10,8 @@
       "total": 16
     },
     "2": {
-      "correct": 8,
-      "total": 15
+      "correct": 9,
+      "total": 16
     }
   },
   "teams": {
@@ -24,8 +24,8 @@
       "total": 2
     },
     "LA": {
-      "correct": 0,
-      "total": 1
+      "correct": 1,
+      "total": 2
     },
     "SF": {
       "correct": 1,
@@ -128,8 +128,8 @@
       "total": 2
     },
     "NYG": {
-      "correct": 1,
-      "total": 1
+      "correct": 2,
+      "total": 2
     },
     "DAL": {
       "correct": 2,
@@ -145,7 +145,7 @@
     }
   },
   "ats_overall": {
-    "wins": 12,
+    "wins": 13,
     "losses": 18,
     "pushes": 1
   },
@@ -156,7 +156,7 @@
       "pushes": 1
     },
     "2": {
-      "wins": 5,
+      "wins": 6,
       "losses": 10,
       "pushes": 0
     }
