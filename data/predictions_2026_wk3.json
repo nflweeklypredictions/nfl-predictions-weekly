@@ -169,8 +169,18 @@
         "note": "Model margin is +4.5 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Javon Hargrave (DT) listed as Questionable (Knee, Concussion)",
+        "Aaron Banks (G) listed as Out (Knee, Toe)",
+        "Zach Bako-Bewele (T) listed as Out (Knee)",
+        "Jayden Reed (WR) listed as Out (Neck)",
+        "Warren Brinson (DT) listed as Out (Calf)",
+        "Anthony Campbell (DT) listed as Questionable (Ankle)"
+      ],
+      "away_team_injuries": [
+        "Samson Ebukam (DE) listed as Out (Hamstring)",
+        "Billy Bowman Jr. (CB) listed as Questionable (Achilles)"
+      ]
     },
     {
       "home_team": "BUF",
