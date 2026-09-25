@@ -2123,7 +2123,12 @@
         "note": "Model margin is +0.2 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
+      "home_team_injuries": [
+        "Malik Hooker (S) listed as Out (Forearm)",
+        "P.J. Locke (S) listed as Out (Foot)",
+        "Cobie Durant (CB) listed as Out (Hamstring)",
+        "DeMarvion Overshown (LB) listed as Out (Hamstring)"
+      ],
       "away_team_injuries": []
     },
     {
