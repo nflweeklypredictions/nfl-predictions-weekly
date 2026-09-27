@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 23,
-    "total": 34
+    "correct": 28,
+    "total": 42
   },
   "weeks": {
     "1": {
@@ -14,18 +14,18 @@
       "total": 16
     },
     "3": {
-      "correct": 1,
-      "total": 2
+      "correct": 6,
+      "total": 10
     }
   },
   "teams": {
     "SEA": {
       "correct": 2,
-      "total": 2
+      "total": 3
     },
     "NE": {
-      "correct": 2,
-      "total": 2
+      "correct": 3,
+      "total": 3
     },
     "LA": {
       "correct": 1,
@@ -37,15 +37,15 @@
     },
     "CAR": {
       "correct": 1,
-      "total": 2
+      "total": 3
     },
     "CHI": {
       "correct": 1,
       "total": 2
     },
     "CIN": {
-      "correct": 1,
-      "total": 2
+      "correct": 2,
+      "total": 3
     },
     "TB": {
       "correct": 1,
@@ -61,47 +61,47 @@
     },
     "HOU": {
       "correct": 1,
-      "total": 2
+      "total": 3
     },
     "BUF": {
-      "correct": 2,
-      "total": 2
+      "correct": 3,
+      "total": 3
     },
     "IND": {
       "correct": 2,
-      "total": 2
+      "total": 3
     },
     "BAL": {
       "correct": 1,
       "total": 2
     },
     "JAX": {
-      "correct": 1,
-      "total": 2
+      "correct": 2,
+      "total": 3
     },
     "CLE": {
       "correct": 1,
-      "total": 2
+      "total": 3
     },
     "PIT": {
-      "correct": 2,
-      "total": 2
+      "correct": 3,
+      "total": 3
     },
     "ATL": {
       "correct": 1,
       "total": 3
     },
     "TEN": {
-      "correct": 1,
-      "total": 2
+      "correct": 2,
+      "total": 3
     },
     "NYJ": {
       "correct": 2,
       "total": 3
     },
     "LAC": {
-      "correct": 0,
-      "total": 2
+      "correct": 1,
+      "total": 3
     },
     "ARI": {
       "correct": 1,
@@ -112,8 +112,8 @@
       "total": 2
     },
     "MIA": {
-      "correct": 2,
-      "total": 2
+      "correct": 3,
+      "total": 3
     },
     "MIN": {
       "correct": 1,
@@ -129,19 +129,19 @@
     },
     "WAS": {
       "correct": 2,
-      "total": 2
+      "total": 3
     },
     "NYG": {
-      "correct": 2,
-      "total": 2
+      "correct": 3,
+      "total": 3
     },
     "DAL": {
       "correct": 2,
       "total": 2
     },
     "KC": {
-      "correct": 2,
-      "total": 2
+      "correct": 3,
+      "total": 3
     },
     "DEN": {
       "correct": 1,
@@ -149,8 +149,8 @@
     }
   },
   "ats_overall": {
-    "wins": 14,
-    "losses": 19,
+    "wins": 19,
+    "losses": 22,
     "pushes": 1
   },
   "ats_weeks": {
@@ -165,8 +165,8 @@
       "pushes": 0
     },
     "3": {
-      "wins": 1,
-      "losses": 1,
+      "wins": 6,
+      "losses": 4,
       "pushes": 0
     }
   }
