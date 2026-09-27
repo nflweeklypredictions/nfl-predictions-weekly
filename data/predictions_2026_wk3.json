@@ -2741,8 +2741,19 @@
         "note": "Model margin is +6.1 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Noah Sewell (LB) listed as Out (Achilles)",
+        "Tyson Bagent (QB) listed as Questionable (Concussion)",
+        "Caleb Williams (QB) listed as Out (Hamstring)",
+        "Shemar Turner (DE) listed as Out (Knee)"
+      ],
+      "away_team_injuries": [
+        "Dallas Goedert (TE) listed as Out (Knee)",
+        "Fred Johnson (T) listed as Out (Knee)",
+        "Marquise Brown (WR) listed as Out (Ankle)",
+        "Jonathan Greenard (LB) listed as Questionable (Pectoral)"
+      ],
+      "home_qb_injury_alert": "Caleb Williams listed as Out (Hamstring) on this week's official injury report."
     }
   ]
 }
