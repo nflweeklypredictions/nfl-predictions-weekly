@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 22,
-    "total": 33
+    "correct": 23,
+    "total": 34
   },
   "weeks": {
     "1": {
@@ -14,8 +14,8 @@
       "total": 16
     },
     "3": {
-      "correct": 0,
-      "total": 1
+      "correct": 1,
+      "total": 2
     }
   },
   "teams": {
@@ -52,8 +52,8 @@
       "total": 2
     },
     "DET": {
-      "correct": 2,
-      "total": 2
+      "correct": 3,
+      "total": 3
     },
     "NO": {
       "correct": 1,
@@ -96,8 +96,8 @@
       "total": 2
     },
     "NYJ": {
-      "correct": 1,
-      "total": 2
+      "correct": 2,
+      "total": 3
     },
     "LAC": {
       "correct": 0,
@@ -149,7 +149,7 @@
     }
   },
   "ats_overall": {
-    "wins": 13,
+    "wins": 14,
     "losses": 19,
     "pushes": 1
   },
@@ -165,7 +165,7 @@
       "pushes": 0
     },
     "3": {
-      "wins": 0,
+      "wins": 1,
       "losses": 1,
       "pushes": 0
     }
