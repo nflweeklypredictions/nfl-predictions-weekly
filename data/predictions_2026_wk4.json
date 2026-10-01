@@ -331,7 +331,10 @@
         "note": "Model margin is +0.8 points from the market line."
       },
       "qb_watch": "WAS's starting QB in the most recent game (M.Mariota) differs from earlier this season (J.Daniels) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
+      "home_team_injuries": [
+        "Sam Cosmi (G) listed as Out (Concussion, Throat)",
+        "Nick Cross (S) listed as Out (Illness)"
+      ],
       "away_team_injuries": []
     },
     {
