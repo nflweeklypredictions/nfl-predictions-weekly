@@ -169,8 +169,17 @@
         "note": "Model margin is -2.4 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Elgton Jenkins (C) listed as Out (Concussion)",
+        "Tylan Wallace (WR) listed as Out (Knee)",
+        "Teven Jenkins (G) listed as Out (Back)"
+      ],
+      "away_team_injuries": [
+        "Jalen Ramsey (CB) listed as Questionable (Wrist)",
+        "Rico Dowdle (RB) listed as Out (Toe)",
+        "Joey Porter Jr. (CB) listed as Out (Not injury related - other, Back)",
+        "Yahya Black (DT) listed as Questionable (Not injury related - personal matter)"
+      ]
     },
     {
       "home_team": "WAS",
