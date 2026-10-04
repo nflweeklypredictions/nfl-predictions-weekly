@@ -2761,8 +2761,18 @@
         "note": "Model margin is +0.4 points from the market line."
       },
       "qb_watch": "ATL's starting QB in the most recent game (M.Penix) differs from earlier this season (C.Rush) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Kaden Elliss (LB) listed as Out (Calf)",
+        "Carl Granderson (LB) listed as Out (Ankle)",
+        "Noah Fant (TE) listed as Questionable (Abdomen)",
+        "Anfernee Jennings (LB) listed as Out (Knee)",
+        "Pete Werner (LB) listed as Questionable (Shoulder)"
+      ],
+      "away_team_injuries": [
+        "Samson Ebukam (DE) listed as Questionable (Hamstring)",
+        "Divine Deablo (LB) listed as Questionable (Hamstring)",
+        "Yasir Abdullah (LB) listed as Questionable (Illness)"
+      ]
     }
   ]
 }
