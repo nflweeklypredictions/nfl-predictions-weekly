@@ -2,7 +2,7 @@
   "season": 2026,
   "overall": {
     "correct": 42,
-    "total": 62
+    "total": 63
   },
   "weeks": {
     "1": {
@@ -19,7 +19,7 @@
     },
     "4": {
       "correct": 11,
-      "total": 14
+      "total": 15
     }
   },
   "teams": {
@@ -41,7 +41,7 @@
     },
     "CAR": {
       "correct": 1,
-      "total": 3
+      "total": 4
     },
     "CHI": {
       "correct": 3,
@@ -57,7 +57,7 @@
     },
     "DET": {
       "correct": 3,
-      "total": 3
+      "total": 4
     },
     "NO": {
       "correct": 1,
@@ -153,7 +153,7 @@
     }
   },
   "ats_overall": {
-    "wins": 27,
+    "wins": 28,
     "losses": 32,
     "pushes": 3
   },
@@ -174,7 +174,7 @@
       "pushes": 1
     },
     "4": {
-      "wins": 7,
+      "wins": 8,
       "losses": 6,
       "pushes": 1
     }
