@@ -169,8 +169,20 @@
         "note": "Model margin is -3.5 points from the market line."
       },
       "qb_watch": "TB's starting QB in the most recent game (J.Daniels) differs from earlier this season (B.Mayfield) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Tyler Smith (G) listed as Questionable (Thumb)",
+        "Cobie Durant (CB) listed as Out (Hamstring)",
+        "DeMarvion Overshown (LB) listed as Out (Hamstring)",
+        "Jonathan Mingo (WR) listed as Questionable (Illness)",
+        "Drew Shelton (T) listed as Out (Hamstring)"
+      ],
+      "away_team_injuries": [
+        "Baker Mayfield (QB) listed as Out (Thumb)",
+        "Antoine Winfield Jr. (S) listed as Out (Rib)",
+        "SirVocea Dennis (LB) listed as Out (Ankle, Foot)",
+        "Benjamin Morrison (CB) listed as Out (Quadricep)"
+      ],
+      "away_qb_injury_alert": "Baker Mayfield listed as Out (Thumb) on this week's official injury report."
     },
     {
       "home_team": "JAX",
