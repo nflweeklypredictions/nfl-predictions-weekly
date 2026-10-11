@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 42,
-    "total": 65
+    "correct": 43,
+    "total": 66
   },
   "weeks": {
     "1": {
@@ -22,8 +22,8 @@
       "total": 16
     },
     "5": {
-      "correct": 0,
-      "total": 1
+      "correct": 1,
+      "total": 2
     }
   },
   "teams": {
@@ -84,8 +84,8 @@
       "total": 4
     },
     "JAX": {
-      "correct": 3,
-      "total": 4
+      "correct": 4,
+      "total": 5
     },
     "CLE": {
       "correct": 1,
@@ -132,8 +132,8 @@
       "total": 4
     },
     "PHI": {
-      "correct": 4,
-      "total": 4
+      "correct": 5,
+      "total": 5
     },
     "WAS": {
       "correct": 3,
@@ -158,7 +158,7 @@
   },
   "ats_overall": {
     "wins": 29,
-    "losses": 33,
+    "losses": 34,
     "pushes": 3
   },
   "ats_weeks": {
@@ -184,7 +184,7 @@
     },
     "5": {
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "pushes": 0
     }
   }
