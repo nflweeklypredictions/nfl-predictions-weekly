@@ -2640,8 +2640,16 @@
         "note": "Model margin is +0.3 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Quentin Lake (S) listed as Questionable (Hip)"
+      ],
+      "away_team_injuries": [
+        "DJ Moore (WR) listed as Questionable (Shoulder)",
+        "Ed Oliver (DE) listed as Out (Knee)",
+        "Josh Palmer (WR) listed as Out (Shoulder)",
+        "Dee Alford (CB) listed as Questionable (Ankle)",
+        "Landon Jackson (DE) listed as Questionable (Knee)"
+      ]
     }
   ]
 }
