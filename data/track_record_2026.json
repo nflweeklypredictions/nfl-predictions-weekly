@@ -2,7 +2,7 @@
   "season": 2026,
   "overall": {
     "correct": 51,
-    "total": 78
+    "total": 79
   },
   "weeks": {
     "1": {
@@ -23,7 +23,7 @@
     },
     "5": {
       "correct": 9,
-      "total": 14
+      "total": 15
     }
   },
   "teams": {
@@ -37,7 +37,7 @@
     },
     "LA": {
       "correct": 2,
-      "total": 4
+      "total": 5
     },
     "SF": {
       "correct": 3,
@@ -73,7 +73,7 @@
     },
     "BUF": {
       "correct": 3,
-      "total": 4
+      "total": 5
     },
     "IND": {
       "correct": 4,
@@ -158,7 +158,7 @@
   },
   "ats_overall": {
     "wins": 37,
-    "losses": 37,
+    "losses": 38,
     "pushes": 4
   },
   "ats_weeks": {
@@ -184,7 +184,7 @@
     },
     "5": {
       "wins": 9,
-      "losses": 4,
+      "losses": 5,
       "pushes": 1
     }
   }
