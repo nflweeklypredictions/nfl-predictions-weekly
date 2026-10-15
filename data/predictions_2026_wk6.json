@@ -169,8 +169,16 @@
         "note": "Model margin is +0.0 points from the market line."
       },
       "qb_watch": "SEA's starting QB in the most recent game (S.Darnold) differs from earlier this season (D.Lock) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Talanoa Hufanga (S) listed as Out (Ankle)",
+        "Pat Surtain II (CB) listed as Out (Ankle)",
+        "Riley Moss (CB) listed as Questionable (Ribs)"
+      ],
+      "away_team_injuries": [
+        "Chazz Surratt (LB) listed as Out (Calf)",
+        "Drake Thomas (LB) listed as Out (Ankle)",
+        "Zach Charbonnet (RB) listed as Out (Knee)"
+      ]
     },
     {
       "home_team": "JAX",
