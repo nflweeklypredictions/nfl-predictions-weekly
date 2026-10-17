@@ -339,8 +339,18 @@
         "note": "Model margin is +0.6 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Ross Matiscik (LS) listed as Out (Shoulder)",
+        "Jaylon Jones (CB) listed as Questionable (Hamstring)",
+        "Montaric Brown (CB) listed as Out (Hamstring)"
+      ],
+      "away_team_injuries": [
+        "David Montgomery (RB) listed as Out (Groin)",
+        "Jalen Pitre (S) listed as Out (Shoulder)",
+        "Ja'Marcus Ingram (CB) listed as Questionable (Elbow)",
+        "Henry To'oTo'o (LB) listed as Questionable (Shoulder)",
+        "Tank Dell (WR) listed as Out (Knee)"
+      ]
     },
     {
       "home_team": "ATL",
@@ -501,8 +511,20 @@
         "note": "Model margin is +2.5 points from the market line."
       },
       "qb_watch": "ATL's starting QB in the most recent game (M.Penix) differs from earlier this season (C.Rush) -- trailing stats may not reflect the current starter. CHI's starting QB in the most recent game (T.Bagent) differs from earlier this season (C.Keenum, C.Williams) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Za'Darius Smith (DE) listed as Questionable (Neck)",
+        "C.J. Henderson (CB) listed as Out (Groin)"
+      ],
+      "away_team_injuries": [
+        "T.J. Edwards (LB) listed as Out (Hamstring)",
+        "Dayo Odeyingbo (DE) listed as Out (Quadricep)",
+        "Kyler Gordon (CB) listed as Questionable (Calf)",
+        "Tyrique Stevenson (CB) listed as Questionable (Hip)",
+        "Caleb Williams (QB) listed as Questionable (Hamstring)",
+        "Kyle Monangai (RB) listed as Out (Thumb, Toe)",
+        "Keyshaun Elliott (LB) listed as Out (Quadricep)"
+      ],
+      "away_qb_injury_alert": "Caleb Williams listed as Questionable (Hamstring) on this week's official injury report."
     },
     {
       "home_team": "CLE",
@@ -663,8 +685,27 @@
         "note": "Model margin is -6.7 points from the market line."
       },
       "qb_watch": "BAL's starting QB in the most recent game (T.Huntley) differs from earlier this season (L.Jackson) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Derek Barnett (DE) listed as Questionable (Ankle)",
+        "Teven Jenkins (G) listed as Out (Back)",
+        "Kalia Davis (DT) listed as Out (Quadricep)",
+        "Mike Hall Jr. (DT) listed as Out (Ankle)",
+        "Dylan Sampson (RB) listed as Out (Knee)",
+        "Carson Schwesinger (LB) listed as Questionable (Ankle)",
+        "Mason Graham (DT) listed as Questionable (Knee, Ankle)",
+        "Dillon Gabriel (QB) listed as Out (Back)",
+        "Quinshon Judkins (RB) listed as Questionable (Ankle)"
+      ],
+      "away_team_injuries": [
+        "Lamar Jackson (QB) listed as Out (Ankle)",
+        "Broderick Washington (DE) listed as Out (Ankle)",
+        "Cam Jurgens (C) listed as Out (Concussion)",
+        "Andrew Vorhees (G) listed as Questionable (Foot)",
+        "Emery Jones Jr. (G) listed as Questionable (Ankle)",
+        "Ja'Kobi Lane (WR) listed as Questionable (Wrist)",
+        "Matthew Hibner (TE) listed as Out (Hand)"
+      ],
+      "away_qb_injury_alert": "Lamar Jackson listed as Out (Ankle) on this week's official injury report."
     },
     {
       "home_team": "IND",
@@ -825,8 +866,18 @@
         "note": "Model margin is +3.1 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Ashton Dulin (WR) listed as Out (Hamstring)",
+        "Will Mallory (TE) listed as Questionable (Thumb)",
+        "Jaylon Carlies (LB) listed as Out (Ribs)",
+        "Tyler Warren (TE) listed as Questionable (Groin)"
+      ],
+      "away_team_injuries": [
+        "Jordan Elliott (DT) listed as Out (Not injury related - personal matter)",
+        "Joshua Williams (CB) listed as Questionable (Pectoral)",
+        "Tyjae Spears (RB) listed as Questionable (Knee)",
+        "Kevin Winston Jr. (S) listed as Out (Quadricep)"
+      ]
     },
     {
       "home_team": "NE",
@@ -987,8 +1038,26 @@
         "note": "Model margin is +6.8 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Carlton Davis III (CB) listed as Out (Neck)",
+        "A.J. Brown (WR) listed as Questionable (Ankle)",
+        "Christian Elliss (LB) listed as Questionable (Chest)",
+        "Marcus Bryant (T) listed as Questionable (Ankle)",
+        "Will Campbell (T) listed as Questionable (Knee)",
+        "Craig Woodson (S) listed as Questionable (Shoulder)",
+        "TreVeyon Henderson (RB) listed as Questionable (Ankle)",
+        "Karon Prunty (CB) listed as Out (Hamstring)",
+        "Channing Canada (CB) listed as Questionable (Hamstring)"
+      ],
+      "away_team_injuries": [
+        "Joseph Ossai (DE) listed as Out (Ankle)",
+        "Dylan Parham (G) listed as Out (Knee)",
+        "Breece Hall (RB) listed as Out (Quadricep)",
+        "Dane Belton (S) listed as Questionable (Knee)",
+        "Adonai Mitchell (WR) listed as Out (Finger)",
+        "Kenyon Sadiq (TE) listed as Questionable (Concussion)",
+        "Omar Cooper Jr. (WR) listed as Questionable (Ankle)"
+      ]
     },
     {
       "home_team": "NYG",
@@ -1149,8 +1218,23 @@
         "note": "Model margin is +4.3 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Jermaine Eluemunor (T) listed as Questionable (Calf)",
+        "Andrew Thomas (T) listed as Questionable (Groin)",
+        "Theo Johnson (TE) listed as Out (Neck)",
+        "Tyler Nubin (S) listed as Out (Neck)",
+        "Abdul Carter (LB) listed as Questionable (Calf)",
+        "Colton Hood (CB) listed as Out (Concussion)"
+      ],
+      "away_team_injuries": [
+        "Zach Wood (LS) listed as Questionable (Calf)",
+        "Alvin Kamara (RB) listed as Questionable (Back)",
+        "Nathan Shepherd (DT) listed as Questionable (Illness)",
+        "Kaden Elliss (LB) listed as Out (Calf)",
+        "Anfernee Jennings (LB) listed as Out (Knee)",
+        "Chris Olave (WR) listed as Questionable (Illness)",
+        "Lorenzo Styles Jr. (CB) listed as Questionable (Knee)"
+      ]
     },
     {
       "home_team": "PHI",
@@ -1311,8 +1395,29 @@
         "note": "Model margin is -2.8 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Saquon Barkley (RB) listed as Out (Hamstring)",
+        "A.J. Epenesa (LB) listed as Doubtful (Back)",
+        "Jalen Hurts (QB) listed as Out (Calf)",
+        "Michael Carter II (S) listed as Out (Abdomen)",
+        "Landon Dickerson (G) listed as Questionable (Knee)",
+        "Grant Calcaterra (TE) listed as Questionable (Back)",
+        "Jakorian Bennett (CB) listed as Questionable (Knee)",
+        "Jalyx Hunt (LB) listed as Out (Knee, Ankle)",
+        "Will Shipley (RB) listed as Out (Foot)",
+        "Drew Kendall (C) listed as Questionable (Knee)",
+        "Eli Stowers (TE) listed as Questionable (Quadricep)"
+      ],
+      "away_team_injuries": [
+        "Taylor Moton (T) listed as Questionable (Lung)",
+        "Tershawn Wharton (DT) listed as Questionable (Neck)",
+        "AJ Dillon (RB) listed as Out (Ankle)",
+        "Damien Lewis (G) listed as Questionable (Elbow)",
+        "Jaelan Phillips (LB) listed as Questionable (Hamstring)",
+        "Trevor Etienne (RB) listed as Questionable (Ankle)",
+        "Monroe Freeling (T) listed as Doubtful (Knee)"
+      ],
+      "home_qb_injury_alert": "Jalen Hurts listed as Out (Calf) on this week's official injury report."
     },
     {
       "home_team": "TB",
@@ -1473,8 +1578,27 @@
         "note": "Model margin is +1.6 points from the market line."
       },
       "qb_watch": "TB's starting QB in the most recent game (J.Daniels) differs from earlier this season (B.Mayfield) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Baker Mayfield (QB) listed as Out (Thumb)",
+        "David Sills (WR) listed as Out (Hamstring)",
+        "Antoine Winfield Jr. (S) listed as Out (Rib)",
+        "Sean Tucker (RB) listed as Questionable (Quadricep)",
+        "SirVocea Dennis (LB) listed as Questionable (Ankle, Foot)",
+        "Benjamin Morrison (CB) listed as Doubtful (Quadricep)",
+        "Ayden Garnes (CB) listed as Questionable (Ankle)",
+        "Josiah Trotter (LB) listed as Questionable (Knee)"
+      ],
+      "away_team_injuries": [
+        "Jalen Ramsey (CB) listed as Questionable (Wrist)",
+        "DeShon Elliott (S) listed as Out (Knee)",
+        "DK Metcalf (WR) listed as Questionable (Illness)",
+        "Jamel Dean (CB) listed as Questionable (Ankle)",
+        "Rico Dowdle (RB) listed as Questionable (Toe)",
+        "Ben Skowronek (WR) listed as Out (Calf)",
+        "Keeanu Benton (DT) listed as Questionable (Ankle)",
+        "Roman Wilson (WR) listed as Out (Finger)"
+      ],
+      "home_qb_injury_alert": "Baker Mayfield listed as Out (Thumb) on this week's official injury report."
     },
     {
       "home_team": "LA",
@@ -1635,8 +1759,19 @@
         "note": "Model margin is +2.8 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Kam Curl (S) listed as Questionable (Ankle)",
+        "Trent McDuffie (CB) listed as Questionable (Groin)"
+      ],
+      "away_team_injuries": [
+        "Budda Baker (S) listed as Questionable (Not injury related - resting player, Groin)",
+        "Andrew Wingard (S) listed as Out (Knee)",
+        "Blake Gillikin (P) listed as Questionable (Back)",
+        "Zaven Collins (LB) listed as Questionable (Hip)",
+        "Kitan Crawford (S) listed as Questionable (Ankle)",
+        "Jeremiyah Love (RB) listed as Out (Ankle)",
+        "Wydett Williams Jr. (S) listed as Out (Concussion)"
+      ]
     },
     {
       "home_team": "KC",
@@ -1797,8 +1932,25 @@
         "note": "Model margin is +4.2 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "L'Jarius Sneed (CB) listed as Questionable (Knee)",
+        "Rashee Rice (WR) listed as Out (Hamstring, Knee)",
+        "Josh Simmons (T) listed as Out (Back)"
+      ],
+      "away_team_injuries": [
+        "Bud Dupree (DE) listed as Questionable (Neck, Not injury related - resting player)",
+        "Dalvin Tomlinson (DT) listed as Questionable (Hamstring)",
+        "Donte Jackson (CB) listed as Out (Hamstring)",
+        "Derwin James (S) listed as Out (Hamstring)",
+        "Kayode Awosika (G) listed as Out (Fibula)",
+        "Daiyan Henley (LB) listed as Questionable (Knee)",
+        "Joe Alt (T) listed as Out (Neck)",
+        "Jamaree Caldwell (DT) listed as Questionable (Knee)",
+        "KeAndre Lambert-Smith (WR) listed as Questionable (Hamstring)",
+        "Tre Harris (WR) listed as Out (Hamstring)",
+        "Rodney Shelley (CB) listed as Doubtful (Hamstring)",
+        "Brenen Thompson (WR) listed as Questionable (Quadricep)"
+      ]
     },
     {
       "home_team": "LV",
@@ -1959,8 +2111,19 @@
         "note": "Model margin is -5.2 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Tonka Hemingway (DT) listed as Out (Concussion)",
+        "Carter Runyon (TE) listed as Out (Foot)",
+        "Dont'e Thornton Jr. (WR) listed as Out (Hamstring)",
+        "Trey Zuhn III (C) listed as Questionable (Knee)"
+      ],
+      "away_team_injuries": [
+        "DJ Moore (WR) listed as Questionable (Shoulder)",
+        "Ed Oliver (DE) listed as Questionable (Knee)",
+        "Josh Palmer (WR) listed as Questionable (Shoulder)",
+        "Dee Alford (CB) listed as Questionable (Ankle)",
+        "T.J. Sanders (DE) listed as Questionable (Shoulder)"
+      ]
     },
     {
       "home_team": "GB",
@@ -2121,8 +2284,26 @@
         "note": "Model margin is +5.9 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Javon Hargrave (DT) listed as Out (Achilles)",
+        "Aaron Banks (G) listed as Questionable (Knee, Toe)",
+        "Benjamin St-Juste (CB) listed as Out (Hamstring)",
+        "Jonathan Ford (DT) listed as Out (Calf)",
+        "Skyy Moore (WR) listed as Out (Ankle)",
+        "Jordon Riley (DE) listed as Doubtful (Achilles)",
+        "Jacob Monk (C) listed as Questionable (Quadricep)",
+        "Savion Williams (WR) listed as Questionable (Ankle)",
+        "Anthony Campbell (DT) listed as Questionable (Ankle)",
+        "Brandon Cisse (CB) listed as Questionable (Hip)"
+      ],
+      "away_team_injuries": [
+        "Cobie Durant (CB) listed as Out (Hamstring)",
+        "DeMarvion Overshown (LB) listed as Questionable (Hamstring)",
+        "Ameer Speed (CB) listed as Questionable (Knee)",
+        "Joey Porter Jr. (CB) listed as Questionable (Ankle)",
+        "Drew Shelton (T) listed as Out (Hamstring)",
+        "LT Overton (DT) listed as Questionable (Foot)"
+      ]
     },
     {
       "home_team": "SF",
