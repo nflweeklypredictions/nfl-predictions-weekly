@@ -868,7 +868,6 @@
       "qb_watch": null,
       "home_team_injuries": [
         "Ashton Dulin (WR) listed as Out (Hamstring)",
-        "Will Mallory (TE) listed as Questionable (Thumb)",
         "Jaylon Carlies (LB) listed as Out (Ribs)",
         "Tyler Warren (TE) listed as Questionable (Groin)"
       ],
@@ -1400,13 +1399,13 @@
         "A.J. Epenesa (LB) listed as Doubtful (Back)",
         "Jalen Hurts (QB) listed as Out (Calf)",
         "Michael Carter II (S) listed as Out (Abdomen)",
-        "Landon Dickerson (G) listed as Questionable (Knee)",
-        "Grant Calcaterra (TE) listed as Questionable (Back)",
-        "Jakorian Bennett (CB) listed as Questionable (Knee)",
+        "Landon Dickerson (G) listed as Out (Knee)",
+        "Grant Calcaterra (TE) listed as Out (Back)",
+        "Jakorian Bennett (CB) listed as Out (Knee)",
         "Jalyx Hunt (LB) listed as Out (Knee, Ankle)",
         "Will Shipley (RB) listed as Out (Foot)",
         "Drew Kendall (C) listed as Questionable (Knee)",
-        "Eli Stowers (TE) listed as Questionable (Quadricep)"
+        "Eli Stowers (TE) listed as Out (Quadricep)"
       ],
       "away_team_injuries": [
         "Taylor Moton (T) listed as Questionable (Lung)",
@@ -1591,10 +1590,10 @@
       "away_team_injuries": [
         "Jalen Ramsey (CB) listed as Questionable (Wrist)",
         "DeShon Elliott (S) listed as Out (Knee)",
-        "DK Metcalf (WR) listed as Questionable (Illness)",
         "Jamel Dean (CB) listed as Questionable (Ankle)",
         "Rico Dowdle (RB) listed as Questionable (Toe)",
         "Ben Skowronek (WR) listed as Out (Calf)",
+        "Pat Freiermuth (TE) listed as Questionable (Calf)",
         "Keeanu Benton (DT) listed as Questionable (Ankle)",
         "Roman Wilson (WR) listed as Out (Finger)"
       ],
@@ -2464,8 +2463,33 @@
         "note": "Model margin is +7.7 points from the market line."
       },
       "qb_watch": "WAS's starting QB in the most recent game (J.Daniels) differs from earlier this season (A.Kaliakmanis, M.Mariota) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Mike Evans (WR) listed as Questionable (Ribs, Achilles)",
+        "Siran Neal (S) listed as Questionable (Neck)",
+        "Christian Kirk (WR) listed as Questionable (Calf)",
+        "Nick Bosa (DE) listed as Out (Knee, Calf)",
+        "Deebo Samuel Sr. (WR) listed as Out (Hamstring)",
+        "Garret Wallow (LB) listed as Out (Hamstring)",
+        "Upton Stout (CB) listed as Questionable (Shoulder)",
+        "Marques Sigle (S) listed as Out (Ankle)",
+        "Mykel Williams (DE) listed as Questionable (Knee)",
+        "Gracen Halton (DT) listed as Questionable (Quadricep)"
+      ],
+      "away_team_injuries": [
+        "Stefon Diggs (WR) listed as Questionable (Hamstring)",
+        "Marcus Mariota (QB) listed as Out (Knee)",
+        "Lucas Patrick (G) listed as Questionable (Illness)",
+        "Jeremy McNichols (RB) listed as Questionable (Quadricep)",
+        "Charles Omenihu (DE) listed as Out (Groin, Ankle)",
+        "Javon Kinlaw (DT) listed as Questionable (Ankle, Knee)",
+        "Nick Cross (S) listed as Questionable (Illness)",
+        "Percy Butler (S) listed as Questionable (Hamstring)",
+        "Jordan Magee (LB) listed as Questionable (Hamstring)",
+        "Javontae Jean-Baptiste (LB) listed as Out (Pectoral)",
+        "Tyler Owens (S) listed as Questionable (Hamstring)",
+        "Jacory Croskey-Merritt (RB) listed as Out (Groin)",
+        "Trey Amos (CB) listed as Questionable (Ankle)"
+      ]
     }
   ]
 }
