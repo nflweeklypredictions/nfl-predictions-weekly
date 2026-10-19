@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 55,
-    "total": 88
+    "correct": 57,
+    "total": 91
   },
   "weeks": {
     "1": {
@@ -26,8 +26,8 @@
       "total": 15
     },
     "6": {
-      "correct": 4,
-      "total": 9
+      "correct": 6,
+      "total": 12
     }
   },
   "teams": {
@@ -41,7 +41,7 @@
     },
     "LA": {
       "correct": 2,
-      "total": 5
+      "total": 6
     },
     "SF": {
       "correct": 3,
@@ -76,8 +76,8 @@
       "total": 6
     },
     "BUF": {
-      "correct": 3,
-      "total": 5
+      "correct": 4,
+      "total": 6
     },
     "IND": {
       "correct": 4,
@@ -112,16 +112,16 @@
       "total": 6
     },
     "LAC": {
-      "correct": 3,
-      "total": 5
+      "correct": 4,
+      "total": 6
     },
     "ARI": {
       "correct": 4,
-      "total": 5
+      "total": 6
     },
     "LV": {
-      "correct": 3,
-      "total": 5
+      "correct": 4,
+      "total": 6
     },
     "MIA": {
       "correct": 5,
@@ -152,8 +152,8 @@
       "total": 5
     },
     "KC": {
-      "correct": 4,
-      "total": 4
+      "correct": 5,
+      "total": 5
     },
     "DEN": {
       "correct": 3,
@@ -161,8 +161,8 @@
     }
   },
   "ats_overall": {
-    "wins": 39,
-    "losses": 45,
+    "wins": 40,
+    "losses": 47,
     "pushes": 4
   },
   "ats_weeks": {
@@ -192,8 +192,8 @@
       "pushes": 1
     },
     "6": {
-      "wins": 2,
-      "losses": 7,
+      "wins": 3,
+      "losses": 9,
       "pushes": 0
     }
   }
