@@ -169,8 +169,23 @@
         "note": "Model margin is -2.5 points from the market line."
       },
       "qb_watch": "CHI's starting QB in the most recent game (C.Williams) differs from earlier this season (C.Keenum, T.Bagent) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "T.J. Edwards (LB) listed as Doubtful (Hamstring)",
+        "Jack Sanborn (LB) listed as Out (Concussion)",
+        "Tyrique Stevenson (CB) listed as Questionable (Hip)",
+        "Kyle Monangai (RB) listed as Out (Thumb, Toe)"
+      ],
+      "away_team_injuries": [
+        "Morgan Moses (T) listed as Questionable (Foot)",
+        "Kevin Byard (S) listed as Questionable (Chest)",
+        "Carlton Davis III (CB) listed as Out (Neck)",
+        "Christian Elliss (LB) listed as Questionable (Chest)",
+        "Alijah Vera-Tucker (G) listed as Out (Hamstring)",
+        "Ben Brown (C) listed as Out (Knee)",
+        "Craig Woodson (S) listed as Questionable (Shoulder)",
+        "Karon Prunty (CB) listed as Out (Hamstring)",
+        "Channing Canada (CB) listed as Out (Hamstring)"
+      ]
     },
     {
       "home_team": "NO",
