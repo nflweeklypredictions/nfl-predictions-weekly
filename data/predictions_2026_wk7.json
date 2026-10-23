@@ -347,7 +347,10 @@
       },
       "qb_watch": null,
       "home_team_injuries": [],
-      "away_team_injuries": []
+      "away_team_injuries": [
+        "Brandin Echols (CB) listed as Out (Hamstring)",
+        "Ben Skowronek (WR) listed as Out (Calf)"
+      ]
     },
     {
       "home_team": "ATL",
