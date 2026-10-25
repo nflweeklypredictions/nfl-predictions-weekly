@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 61,
-    "total": 95
+    "correct": 63,
+    "total": 102
   },
   "weeks": {
     "1": {
@@ -30,8 +30,8 @@
       "total": 14
     },
     "7": {
-      "correct": 2,
-      "total": 2
+      "correct": 4,
+      "total": 9
     }
   },
   "teams": {
@@ -49,11 +49,11 @@
     },
     "SF": {
       "correct": 4,
-      "total": 6
+      "total": 7
     },
     "CAR": {
       "correct": 2,
-      "total": 5
+      "total": 6
     },
     "CHI": {
       "correct": 5,
@@ -61,11 +61,11 @@
     },
     "CIN": {
       "correct": 4,
-      "total": 5
+      "total": 6
     },
     "TB": {
       "correct": 3,
-      "total": 6
+      "total": 7
     },
     "DET": {
       "correct": 4,
@@ -77,27 +77,27 @@
     },
     "HOU": {
       "correct": 2,
-      "total": 6
+      "total": 7
     },
     "BUF": {
       "correct": 4,
       "total": 6
     },
     "IND": {
-      "correct": 4,
-      "total": 6
+      "correct": 5,
+      "total": 7
     },
     "BAL": {
       "correct": 4,
-      "total": 6
+      "total": 7
     },
     "JAX": {
       "correct": 4,
       "total": 6
     },
     "CLE": {
-      "correct": 2,
-      "total": 6
+      "correct": 3,
+      "total": 7
     },
     "PIT": {
       "correct": 6,
@@ -105,15 +105,15 @@
     },
     "ATL": {
       "correct": 3,
-      "total": 6
+      "total": 7
     },
     "TEN": {
-      "correct": 4,
-      "total": 6
+      "correct": 5,
+      "total": 7
     },
     "NYJ": {
       "correct": 5,
-      "total": 6
+      "total": 7
     },
     "LAC": {
       "correct": 4,
@@ -129,11 +129,11 @@
     },
     "MIA": {
       "correct": 5,
-      "total": 5
+      "total": 6
     },
     "MIN": {
-      "correct": 2,
-      "total": 5
+      "correct": 3,
+      "total": 6
     },
     "GB": {
       "correct": 4,
@@ -149,7 +149,7 @@
     },
     "NYG": {
       "correct": 4,
-      "total": 6
+      "total": 7
     },
     "DAL": {
       "correct": 4,
@@ -165,8 +165,8 @@
     }
   },
   "ats_overall": {
-    "wins": 42,
-    "losses": 49,
+    "wins": 44,
+    "losses": 54,
     "pushes": 4
   },
   "ats_weeks": {
@@ -201,8 +201,8 @@
       "pushes": 0
     },
     "7": {
-      "wins": 1,
-      "losses": 1,
+      "wins": 3,
+      "losses": 6,
       "pushes": 0
     }
   }
