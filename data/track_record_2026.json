@@ -2,7 +2,7 @@
   "season": 2026,
   "overall": {
     "correct": 66,
-    "total": 105
+    "total": 106
   },
   "weeks": {
     "1": {
@@ -31,13 +31,13 @@
     },
     "7": {
       "correct": 7,
-      "total": 12
+      "total": 13
     }
   },
   "teams": {
     "SEA": {
       "correct": 3,
-      "total": 6
+      "total": 7
     },
     "NE": {
       "correct": 6,
@@ -157,7 +157,7 @@
     },
     "KC": {
       "correct": 5,
-      "total": 5
+      "total": 6
     },
     "DEN": {
       "correct": 4,
@@ -166,7 +166,7 @@
   },
   "ats_overall": {
     "wins": 46,
-    "losses": 54,
+    "losses": 55,
     "pushes": 5
   },
   "ats_weeks": {
@@ -202,7 +202,7 @@
     },
     "7": {
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "pushes": 1
     }
   }
