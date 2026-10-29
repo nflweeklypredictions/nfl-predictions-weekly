@@ -169,8 +169,22 @@
         "note": "Model margin is +1.7 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Zaire Franklin (LB) listed as Out (Shin)",
+        "Devonte Wyatt (DT) listed as Questionable (Ankle)",
+        "Sean Rhyan (C) listed as Out (Ankle)",
+        "Brenton Cox Jr. (LB) listed as Questionable (Quadricep)",
+        "Travis Glover (G) listed as Out (Knee)",
+        "Matthew Golden (WR) listed as Questionable (Shoulder, Foot)",
+        "Anthony Campbell (DT) listed as Questionable (Ankle)"
+      ],
+      "away_team_injuries": [
+        "Damien Lewis (G) listed as Out (Knee)",
+        "Bobby Brown III (DT) listed as Questionable (Hand)",
+        "Jaelan Phillips (LB) listed as Out (Hamstring)",
+        "Akayleb Evans (CB) listed as Out (Triceps, Knee)",
+        "Torricelli Simpkins III (G) listed as Out (Ankle)"
+      ]
     },
     {
       "home_team": "BUF",
