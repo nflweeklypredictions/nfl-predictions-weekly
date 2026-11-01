@@ -2422,8 +2422,21 @@
         "note": "Model margin is +1.7 points from the market line."
       },
       "qb_watch": "CHI's starting QB in the most recent game (C.Williams) differs from earlier this season (T.Bagent) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Uchenna Nwosu (LB) listed as Doubtful (Ankle)",
+        "Drew Lock (QB) listed as Questionable (Elbow)",
+        "Rashid Shaheed (WR) listed as Out (Knee)",
+        "Velus Jones Jr. (RB) listed as Out (Hamstring)",
+        "Charles Cross (T) listed as Out (Ankle)",
+        "Brandon Pili (DT) listed as Questionable (Back)",
+        "Patrick O'Connell (LB) listed as Questionable (Toe)",
+        "Anthony Bradford (G) listed as Questionable (Knee)"
+      ],
+      "away_team_injuries": [
+        "D'Marco Jackson (LB) listed as Questionable (Ankle)",
+        "Kyle Monangai (RB) listed as Out (Thumb, Toe)",
+        "Malik Muhammad (CB) listed as Questionable (Toe)"
+      ]
     }
   ]
 }
