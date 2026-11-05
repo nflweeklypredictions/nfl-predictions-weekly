@@ -169,8 +169,18 @@
         "note": "Model margin is +4.3 points from the market line."
       },
       "qb_watch": "BAL's starting QB in the most recent game (J.Fagnano) differs from earlier this season (T.Huntley) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Lamar Jackson (QB) listed as Out (Thumb)",
+        "Tyler Huntley (QB) listed as Out (Toe)",
+        "Jaylinn Hawkins (S) listed as Out (Knee)",
+        "Nate Wiggins (CB) listed as Questionable (Stinger, Illness)",
+        "Adam Randall (RB) listed as Questionable (Neck)"
+      ],
+      "away_team_injuries": [
+        "Travon Walker (DE) listed as Questionable (Rib)",
+        "Bhayshul Tuten (RB) listed as Questionable (Ankle, Foot)"
+      ],
+      "home_qb_injury_alert": "Lamar Jackson listed as Out (Thumb) on this week's official injury report."
     },
     {
       "home_team": "ATL",
