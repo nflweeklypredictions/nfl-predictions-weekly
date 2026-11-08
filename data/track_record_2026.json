@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 77,
-    "total": 122
+    "correct": 78,
+    "total": 123
   },
   "weeks": {
     "1": {
@@ -38,8 +38,8 @@
       "total": 14
     },
     "9": {
-      "correct": 1,
-      "total": 1
+      "correct": 2,
+      "total": 2
     }
   },
   "teams": {
@@ -68,8 +68,8 @@
       "total": 8
     },
     "CIN": {
-      "correct": 5,
-      "total": 7
+      "correct": 6,
+      "total": 8
     },
     "TB": {
       "correct": 4,
@@ -112,8 +112,8 @@
       "total": 8
     },
     "ATL": {
-      "correct": 4,
-      "total": 8
+      "correct": 5,
+      "total": 9
     },
     "TEN": {
       "correct": 6,
@@ -173,7 +173,7 @@
     }
   },
   "ats_overall": {
-    "wins": 53,
+    "wins": 54,
     "losses": 64,
     "pushes": 5
   },
@@ -219,7 +219,7 @@
       "pushes": 0
     },
     "9": {
-      "wins": 0,
+      "wins": 1,
       "losses": 1,
       "pushes": 0
     }
