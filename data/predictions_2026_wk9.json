@@ -347,7 +347,7 @@
         "Yasir Abdullah (DE) listed as Questionable (Hamstring)",
         "Beaux Collins (WR) listed as Questionable (Hip)",
         "James Pearce Jr. (DE) listed as Questionable (Back)",
-        "Cameron Williams (T) listed as Questionable (Ankle)",
+        "Cameron Williams (T) listed as Out (Ankle)",
         "Zachariah Branch (WR) listed as Out (Hamstring)"
       ],
       "away_team_injuries": [
@@ -695,7 +695,7 @@
         "Akeem Davis-Gaither (LB) listed as Out (Knee)",
         "Justin Walley (CB) listed as Out (Knee)",
         "Jalen Travis (T) listed as Questionable (Thumb, Hamstring)",
-        "A.J. Haulcy (S) listed as Questionable (Ankle)"
+        "A.J. Haulcy (S) listed as Out (Ankle)"
       ],
       "away_team_injuries": [
         "Jonathan Bullard (DE) listed as Questionable (Calf)",
@@ -876,11 +876,11 @@
       ],
       "away_team_injuries": [
         "Harrison Phillips (DT) listed as Questionable (Ankle)",
-        "Joseph Ossai (DE) listed as Questionable (Ankle)",
-        "Nahshon Wright (CB) listed as Questionable (Back)",
+        "Joseph Ossai (DE) listed as Out (Ankle)",
+        "Nahshon Wright (CB) listed as Out (Back)",
         "Garrett Wilson (WR) listed as Out (Concussion)",
         "Trevin Wallace (LB) listed as Out (Groin)",
-        "VJ Payne (S) listed as Questionable (Knee)"
+        "VJ Payne (S) listed as Out (Knee)"
       ]
     },
     {
@@ -1744,7 +1744,10 @@
         "Kendall Williamson (S) listed as Out (Calf)",
         "Brenen Thompson (WR) listed as Doubtful (Quadricep, Hamstring)"
       ],
-      "away_team_injuries": []
+      "away_team_injuries": [
+        "David Montgomery (RB) listed as Out (Groin)",
+        "Reed Blankenship (S) listed as Out (Concussion, Hand)"
+      ]
     },
     {
       "home_team": "SF",
@@ -2079,7 +2082,7 @@
       },
       "qb_watch": null,
       "home_team_injuries": [
-        "Greg Van Roten (G) listed as Questionable (Hamstring)",
+        "Greg Van Roten (G) listed as Out (Hamstring)",
         "Morgan Moses (T) listed as Questionable (Foot)",
         "Hunter Henry (TE) listed as Questionable (Foot)",
         "Kevin Byard (S) listed as Questionable (Chest)",
@@ -2607,8 +2610,22 @@
         "note": "Model margin is -1.7 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Kyler Murray (QB) listed as Out (Hamstring)",
+        "Jauan Jennings (WR) listed as Out (Calf)",
+        "Theo Jackson (S) listed as Questionable (Quadricep)",
+        "Jay Ward (S) listed as Questionable (Knee)",
+        "Demond Claiborne (RB) listed as Out (Knee)"
+      ],
+      "away_team_injuries": [
+        "Dion Dawkins (T) listed as Questionable (Rib)",
+        "Greg Gaines (DT) listed as Questionable (Calf)",
+        "Josh Palmer (WR) listed as Out (Hamstring)",
+        "Alec Anderson (G) listed as Questionable (Ankle)",
+        "Tyrell Shavers (WR) listed as Questionable (Knee)",
+        "Jordan Hancock (CB) listed as Questionable (Hamstring)"
+      ],
+      "home_qb_injury_alert": "Kyler Murray listed as Out (Hamstring) on this week's official injury report."
     }
   ]
 }
