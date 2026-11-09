@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 85,
-    "total": 130
+    "correct": 88,
+    "total": 134
   },
   "weeks": {
     "1": {
@@ -38,26 +38,26 @@
       "total": 14
     },
     "9": {
-      "correct": 9,
-      "total": 9
+      "correct": 12,
+      "total": 13
     }
   },
   "teams": {
     "SEA": {
-      "correct": 3,
-      "total": 8
+      "correct": 4,
+      "total": 9
     },
     "NE": {
       "correct": 7,
-      "total": 8
+      "total": 9
     },
     "LA": {
       "correct": 5,
       "total": 9
     },
     "SF": {
-      "correct": 4,
-      "total": 7
+      "correct": 5,
+      "total": 8
     },
     "CAR": {
       "correct": 4,
@@ -84,8 +84,8 @@
       "total": 8
     },
     "HOU": {
-      "correct": 2,
-      "total": 7
+      "correct": 3,
+      "total": 8
     },
     "BUF": {
       "correct": 5,
@@ -124,16 +124,16 @@
       "total": 9
     },
     "LAC": {
-      "correct": 5,
-      "total": 7
+      "correct": 6,
+      "total": 8
     },
     "ARI": {
-      "correct": 5,
-      "total": 8
+      "correct": 6,
+      "total": 9
     },
     "LV": {
-      "correct": 5,
-      "total": 8
+      "correct": 6,
+      "total": 9
     },
     "MIA": {
       "correct": 7,
@@ -145,7 +145,7 @@
     },
     "GB": {
       "correct": 6,
-      "total": 8
+      "total": 9
     },
     "PHI": {
       "correct": 8,
@@ -173,7 +173,7 @@
     }
   },
   "ats_overall": {
-    "wins": 58,
+    "wins": 62,
     "losses": 67,
     "pushes": 5
   },
@@ -219,7 +219,7 @@
       "pushes": 0
     },
     "9": {
-      "wins": 5,
+      "wins": 9,
       "losses": 4,
       "pushes": 0
     }
