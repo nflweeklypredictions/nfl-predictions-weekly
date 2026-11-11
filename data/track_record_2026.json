@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 89,
-    "total": 135
+    "correct": 90,
+    "total": 136
   },
   "weeks": {
     "1": {
@@ -38,8 +38,8 @@
       "total": 14
     },
     "9": {
-      "correct": 13,
-      "total": 14
+      "correct": 14,
+      "total": 15
     }
   },
   "teams": {
@@ -88,8 +88,8 @@
       "total": 8
     },
     "BUF": {
-      "correct": 5,
-      "total": 7
+      "correct": 6,
+      "total": 8
     },
     "IND": {
       "correct": 7,
@@ -140,8 +140,8 @@
       "total": 8
     },
     "MIN": {
-      "correct": 4,
-      "total": 7
+      "correct": 5,
+      "total": 8
     },
     "GB": {
       "correct": 6,
@@ -173,7 +173,7 @@
     }
   },
   "ats_overall": {
-    "wins": 62,
+    "wins": 63,
     "losses": 68,
     "pushes": 5
   },
@@ -219,7 +219,7 @@
       "pushes": 0
     },
     "9": {
-      "wins": 9,
+      "wins": 10,
       "losses": 5,
       "pushes": 0
     }
