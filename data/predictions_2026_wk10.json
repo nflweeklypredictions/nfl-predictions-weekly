@@ -169,8 +169,13 @@
         "note": "Model margin is +0.2 points from the market line."
       },
       "qb_watch": "NYG's starting QB in the most recent game (J.McCarthy) differs from earlier this season (J.Winston) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Malik Harrison (LB) listed as Questionable (Groin)"
+      ],
+      "away_team_injuries": [
+        "Lucas Patrick (C) listed as Out (Concussion)",
+        "Colson Yankoff (TE) listed as Out (Knee)"
+      ]
     },
     {
       "home_team": "DET",
@@ -332,7 +337,11 @@
       },
       "qb_watch": null,
       "home_team_injuries": [],
-      "away_team_injuries": []
+      "away_team_injuries": [
+        "Carlton Davis III (CB) listed as Out (Knee)",
+        "Ben Brown (C) listed as Out (Knee)",
+        "TreVeyon Henderson (RB) listed as Out (Illness)"
+      ]
     },
     {
       "home_team": "ATL",
