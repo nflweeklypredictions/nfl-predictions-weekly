@@ -336,7 +336,11 @@
         "note": "Model margin is +0.3 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
+      "home_team_injuries": [
+        "D.J. Reed (CB) listed as Out (Hip)",
+        "Cade Mays (C) listed as Out (Ankle)",
+        "Kerby Joseph (S) listed as Out (Knee)"
+      ],
       "away_team_injuries": [
         "Carlton Davis III (CB) listed as Out (Knee)",
         "Ben Brown (C) listed as Out (Knee)",

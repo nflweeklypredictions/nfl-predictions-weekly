@@ -2,12 +2,16 @@
   "season": 2026,
   "overall": {
     "correct": 90,
-    "total": 136
+    "total": 137
   },
   "weeks": {
     "1": {
       "correct": 13,
       "total": 16
+    },
+    "10": {
+      "correct": 0,
+      "total": 1
     },
     "2": {
       "correct": 9,
@@ -153,11 +157,11 @@
     },
     "WAS": {
       "correct": 6,
-      "total": 8
+      "total": 9
     },
     "NYG": {
       "correct": 5,
-      "total": 8
+      "total": 9
     },
     "DAL": {
       "correct": 5,
@@ -174,7 +178,7 @@
   },
   "ats_overall": {
     "wins": 63,
-    "losses": 68,
+    "losses": 69,
     "pushes": 5
   },
   "ats_weeks": {
@@ -182,6 +186,11 @@
       "wins": 7,
       "losses": 8,
       "pushes": 1
+    },
+    "10": {
+      "wins": 0,
+      "losses": 1,
+      "pushes": 0
     },
     "2": {
       "wins": 6,
