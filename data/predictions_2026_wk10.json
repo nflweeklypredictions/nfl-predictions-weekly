@@ -1058,7 +1058,6 @@
       "home_team_injuries": [
         "Luke Rhodes (LS) listed as Out (Hamstring)",
         "Mo Alie-Cox (TE) listed as Out (Groin)",
-        "Arden Key (DE) listed as Questionable (Hamstring)",
         "Jerry Tillery (DT) listed as Out (Calf)",
         "Akeem Davis-Gaither (LB) listed as Out (Knee)",
         "Will Mallory (TE) listed as Questionable (Hamstring)",
@@ -2463,8 +2462,22 @@
         "note": "Model margin is +5.1 points from the market line."
       },
       "qb_watch": "BAL's starting QB in the most recent game (J.Fagnano) differs from earlier this season (T.Huntley) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Jaylinn Hawkins (S) listed as Out (Knee)",
+        "Adam Randall (RB) listed as Questionable (Neck, Hamstring)"
+      ],
+      "away_team_injuries": [
+        "Denzel Perryman (LB) listed as Questionable (Pectoral)",
+        "David Njoku (TE) listed as Questionable (Fibula)",
+        "Trey Pipkins (T) listed as Questionable (Not injury related - personal matter, Knee)",
+        "Kayode Awosika (G) listed as Questionable (Fibula)",
+        "Kendall Williamson (S) listed as Out (Calf)",
+        "Justin Eboigbe (DE) listed as Questionable (Ankle)",
+        "Ladd McConkey (WR) listed as Questionable (Back)",
+        "Isas Waxter (CB) listed as Out (Ankle)",
+        "Branson Taylor (G) listed as Out (Ankle)",
+        "Brenen Thompson (WR) listed as Doubtful (Hamstring)"
+      ]
     }
   ]
 }
