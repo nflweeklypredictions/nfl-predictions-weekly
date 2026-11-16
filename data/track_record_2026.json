@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 98,
-    "total": 147
+    "correct": 99,
+    "total": 148
   },
   "weeks": {
     "1": {
@@ -10,8 +10,8 @@
       "total": 16
     },
     "10": {
-      "correct": 8,
-      "total": 11
+      "correct": 9,
+      "total": 12
     },
     "2": {
       "correct": 9,
@@ -60,8 +60,8 @@
       "total": 10
     },
     "SF": {
-      "correct": 5,
-      "total": 8
+      "correct": 6,
+      "total": 9
     },
     "CAR": {
       "correct": 5,
@@ -164,8 +164,8 @@
       "total": 9
     },
     "DAL": {
-      "correct": 5,
-      "total": 9
+      "correct": 6,
+      "total": 10
     },
     "KC": {
       "correct": 7,
@@ -177,7 +177,7 @@
     }
   },
   "ats_overall": {
-    "wins": 71,
+    "wins": 72,
     "losses": 71,
     "pushes": 5
   },
@@ -188,7 +188,7 @@
       "pushes": 1
     },
     "10": {
-      "wins": 8,
+      "wins": 9,
       "losses": 3,
       "pushes": 0
     },
