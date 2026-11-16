@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "overall": {
-    "correct": 99,
-    "total": 148
+    "correct": 100,
+    "total": 149
   },
   "weeks": {
     "1": {
@@ -10,8 +10,8 @@
       "total": 16
     },
     "10": {
-      "correct": 9,
-      "total": 12
+      "correct": 10,
+      "total": 13
     },
     "2": {
       "correct": 9,
@@ -72,8 +72,8 @@
       "total": 9
     },
     "CIN": {
-      "correct": 6,
-      "total": 8
+      "correct": 7,
+      "total": 9
     },
     "TB": {
       "correct": 5,
@@ -112,8 +112,8 @@
       "total": 10
     },
     "PIT": {
-      "correct": 7,
-      "total": 8
+      "correct": 8,
+      "total": 9
     },
     "ATL": {
       "correct": 6,
@@ -177,7 +177,7 @@
     }
   },
   "ats_overall": {
-    "wins": 72,
+    "wins": 73,
     "losses": 71,
     "pushes": 5
   },
@@ -188,7 +188,7 @@
       "pushes": 1
     },
     "10": {
-      "wins": 9,
+      "wins": 10,
       "losses": 3,
       "pushes": 0
     },
