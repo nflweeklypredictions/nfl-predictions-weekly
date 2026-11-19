@@ -169,8 +169,26 @@
         "note": "Model margin is +2.0 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Danielle Hunter (DE) listed as Out (Hamstring)",
+        "Wyatt Teller (G) listed as Questionable (Back)",
+        "Brevin Jordan (TE) listed as Out (Foot, Illness)",
+        "Jacob Hummel (LB) listed as Questionable (Groin)",
+        "Marvin Harrison Jr. (WR) listed as Out (Hamstring)",
+        "Jaylin Smith (CB) listed as Questionable (Hamstring)",
+        "Woody Marks (RB) listed as Out (Concussion)"
+      ],
+      "away_team_injuries": [
+        "Luke Rhodes (LS) listed as Questionable (Hamstring)",
+        "Charvarius Ward (CB) listed as Out (Knee)",
+        "Jerry Tillery (DT) listed as Out (Calf)",
+        "Charlie Heck (T) listed as Questionable (Not injury related - personal matter)",
+        "Sauce Gardner (CB) listed as Questionable (Calf)",
+        "Bernhard Raimann (T) listed as Out (Concussion)",
+        "Will Mallory (TE) listed as Out (Hamstring)",
+        "Anthony Gould (WR) listed as Questionable (Toe)",
+        "Jalen Travis (T) listed as Out (Knee)"
+      ]
     },
     {
       "home_team": "BUF",
