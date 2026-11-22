@@ -2268,8 +2268,23 @@
         "note": "Model margin is -0.1 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Lucas Patrick (C) listed as Questionable (Concussion)",
+        "Amik Robertson (CB) listed as Questionable (Ankle)",
+        "Rachaad White (RB) listed as Questionable (Heel)",
+        "Jacory Croskey-Merritt (RB) listed as Questionable (Groin)"
+      ],
+      "away_team_injuries": [
+        "Jalen Davis (CB) listed as Doubtful (Hamstring)",
+        "Oren Burks (LB) listed as Out (Groin)",
+        "Dalton Risner (G) listed as Out (Knee, Knee)",
+        "Kyle Dugger (S) listed as Questionable (Quadricep)",
+        "Daxton Hill (CB) listed as Questionable (Illness)",
+        "Andrei Iosivas (WR) listed as Doubtful (Thumb)",
+        "Swayze Bozeman (LB) listed as Questionable (Forearm)",
+        "Dylan Fairchild (G) listed as Questionable (Oblique)",
+        "Brian Parker II (G) listed as Questionable (Knee)"
+      ]
     }
   ]
 }
