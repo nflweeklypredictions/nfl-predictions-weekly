@@ -1,0 +1,2574 @@
+{
+  "season": 2026,
+  "week": 12,
+  "baseline": {
+    "mode": "blended",
+    "prior_season": 2025,
+    "current_season_games_through_week": 11,
+    "avg_current_season_games_played": 10.2,
+    "avg_weight_on_current_season": 0.718
+  },
+  "league_avg_ppg": 23.1,
+  "games": [
+    {
+      "home_team": "LA",
+      "away_team": "GB",
+      "kickoff": "2026-11-25",
+      "time_et": "20:00",
+      "location": "Home",
+      "home_win_prob": 67.9,
+      "away_win_prob": 32.1,
+      "home_score_est": 24.9,
+      "away_score_est": 19.4,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 1.1413,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": -0.2837,
+          "favors": "away"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": 0.1446,
+          "favors": "home"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": 0.1067,
+          "favors": "home"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.0755,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": 0.486,
+          "favors": "home"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.2795,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.1575,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": 0.2644,
+          "favors": "home"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": -0.1967,
+          "favors": "away"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": -0.0868,
+          "favors": "away"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0147,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": 2.5,
+        "total_line": 43.5,
+        "moneyline_home": -136.0,
+        "moneyline_away": 115.0,
+        "fair_odds_home": 55.3,
+        "fair_odds_away": 44.7
+      },
+      "home_stats": {
+        "ppg": 26.4202,
+        "papg": 19.1723,
+        "off_epa_per_play": 0.096,
+        "def_epa_per_play": -0.08,
+        "epa_margin": 0.1759,
+        "turnover_margin": 1.0,
+        "off_explosive_rate": 0.1347,
+        "def_explosive_rate": 0.1085,
+        "third_down_pct": 0.4191,
+        "redzone_td_rate": 0.2415,
+        "cpoe": 0.7013,
+        "sack_rate_allowed": 0.0379,
+        "int_rate": 0.0219
+      },
+      "away_stats": {
+        "ppg": 22.7143,
+        "papg": 21.8361,
+        "off_epa_per_play": 0.0385,
+        "def_epa_per_play": -0.0122,
+        "epa_margin": 0.0508,
+        "turnover_margin": 3.2857,
+        "off_explosive_rate": 0.1311,
+        "def_explosive_rate": 0.1098,
+        "third_down_pct": 0.4066,
+        "redzone_td_rate": 0.1861,
+        "cpoe": 2.3415,
+        "sack_rate_allowed": 0.061,
+        "int_rate": 0.0165
+      },
+      "home_qb": {
+        "name": "Matthew Stafford",
+        "rate": 109.0,
+        "note": "Defense added Myles Garrett + Trent McDuffie by trade; Aaron Donald returned from retirement."
+      },
+      "away_qb": {
+        "name": "Jordan Love",
+        "rate": 102.5,
+        "note": null
+      },
+      "raw_model_home_wp": 67.9,
+      "raw_model_away_wp": 32.1,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 5.5,
+        "market_line": 2.5,
+        "edge_points": 3.0,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "LA -2.5",
+        "confidence": 4,
+        "note": "Model margin is +3.0 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "DET",
+      "away_team": "CHI",
+      "kickoff": "2026-11-26",
+      "time_et": "13:00",
+      "location": "Home",
+      "home_win_prob": 70.6,
+      "away_win_prob": 29.4,
+      "home_score_est": 29.3,
+      "away_score_est": 22.9,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 0.1853,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 0.2482,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": 0.4717,
+          "favors": "home"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": 0.775,
+          "favors": "home"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": -0.19,
+          "favors": "away"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": 0.4286,
+          "favors": "home"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.0593,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.0898,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": -0.0764,
+          "favors": "away"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": 0.4212,
+          "favors": "home"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": -0.0168,
+          "favors": "away"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0325,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": -2.5,
+        "total_line": 55.5,
+        "moneyline_home": 120.0,
+        "moneyline_away": -142.0,
+        "fair_odds_home": 43.7,
+        "fair_odds_away": 56.3
+      },
+      "home_stats": {
+        "ppg": 28.6555,
+        "papg": 22.6555,
+        "off_epa_per_play": 0.1192,
+        "def_epa_per_play": 0.0362,
+        "epa_margin": 0.0831,
+        "turnover_margin": 2.5714,
+        "off_explosive_rate": 0.153,
+        "def_explosive_rate": 0.1273,
+        "third_down_pct": 0.4115,
+        "redzone_td_rate": 0.2111,
+        "cpoe": 1.1358,
+        "sack_rate_allowed": 0.0621,
+        "int_rate": 0.0117
+      },
+      "away_stats": {
+        "ppg": 26.1261,
+        "papg": 21.0462,
+        "off_epa_per_play": 0.0393,
+        "def_epa_per_play": -0.0215,
+        "epa_margin": 0.0608,
+        "turnover_margin": 0.5714,
+        "off_explosive_rate": 0.1276,
+        "def_explosive_rate": 0.1373,
+        "third_down_pct": 0.443,
+        "redzone_td_rate": 0.1622,
+        "cpoe": 2.0711,
+        "sack_rate_allowed": 0.0554,
+        "int_rate": 0.0233
+      },
+      "home_qb": {
+        "name": "Jared Goff",
+        "rate": 105.5,
+        "note": "New OC (Drew Petzing) and a rebuilt O-line (Sewell to LT)."
+      },
+      "away_qb": {
+        "name": "Caleb Williams",
+        "rate": 90.7,
+        "note": null
+      },
+      "raw_model_home_wp": 70.6,
+      "raw_model_away_wp": 29.4,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 6.4,
+        "market_line": -2.5,
+        "edge_points": 8.9,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "DET +2.5",
+        "confidence": 5,
+        "note": "Model margin is +8.9 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "DAL",
+      "away_team": "PHI",
+      "kickoff": "2026-11-26",
+      "time_et": "16:30",
+      "location": "Home",
+      "home_win_prob": 73.6,
+      "away_win_prob": 26.4,
+      "home_score_est": 29.9,
+      "away_score_est": 22.4,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 0.86,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": -0.2092,
+          "favors": "away"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": 0.0699,
+          "favors": "home"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.2151,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.523,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": -0.038,
+          "favors": "away"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.8332,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": 0.3465,
+          "favors": "home"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": 0.5397,
+          "favors": "home"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": 0.0321,
+          "favors": "home"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.0149,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0507,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": 8.5,
+        "total_line": 47.5,
+        "moneyline_home": -468.0,
+        "moneyline_away": 362.0,
+        "fair_odds_home": 79.2,
+        "fair_odds_away": 20.8
+      },
+      "home_stats": {
+        "ppg": 29.8549,
+        "papg": 28.8157,
+        "off_epa_per_play": 0.1164,
+        "def_epa_per_play": 0.1221,
+        "epa_margin": -0.0057,
+        "turnover_margin": -4.4,
+        "off_explosive_rate": 0.1205,
+        "def_explosive_rate": 0.1409,
+        "third_down_pct": 0.4495,
+        "redzone_td_rate": 0.2131,
+        "cpoe": 1.4291,
+        "sack_rate_allowed": 0.0376,
+        "int_rate": 0.0149
+      },
+      "away_stats": {
+        "ppg": 18.2983,
+        "papg": 22.3908,
+        "off_epa_per_play": -0.0683,
+        "def_epa_per_play": 0.0261,
+        "epa_margin": -0.0944,
+        "turnover_margin": -2.7143,
+        "off_explosive_rate": 0.1079,
+        "def_explosive_rate": 0.1202,
+        "third_down_pct": 0.3628,
+        "redzone_td_rate": 0.2174,
+        "cpoe": -2.1796,
+        "sack_rate_allowed": 0.0848,
+        "int_rate": 0.0158
+      },
+      "home_qb": {
+        "name": "Dak Prescott",
+        "rate": 98.2,
+        "note": null
+      },
+      "away_qb": {
+        "name": "Jalen Hurts",
+        "rate": 96.3,
+        "note": null
+      },
+      "raw_model_home_wp": 73.6,
+      "raw_model_away_wp": 26.4,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 7.5,
+        "market_line": 8.5,
+        "edge_points": -1.0,
+        "pick_home": false
+      },
+      "bet": {
+        "pick": "PHI +8.5",
+        "confidence": 2,
+        "note": "Model margin is -1.0 points from the market line."
+      },
+      "qb_watch": "PHI's starting QB in the most recent game (J.Milton) differs from earlier this season (T.McKee) -- trailing stats may not reflect the current starter."
+    },
+    {
+      "home_team": "BUF",
+      "away_team": "KC",
+      "kickoff": "2026-11-26",
+      "time_et": "20:20",
+      "location": "Home",
+      "home_win_prob": 49.1,
+      "away_win_prob": 50.9,
+      "home_score_est": 23.0,
+      "away_score_est": 23.2,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": -0.0054,
+          "favors": "away"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": -0.5673,
+          "favors": "away"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": -0.0475,
+          "favors": "away"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.3613,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.2185,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": 0.0125,
+          "favors": "home"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.1863,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": 0.0937,
+          "favors": "home"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": -0.2194,
+          "favors": "away"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": -0.4104,
+          "favors": "away"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.0073,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": -0.1195,
+          "favors": "away"
+        }
+      ],
+      "market": {
+        "spread_line": 3.0,
+        "total_line": 47.5,
+        "moneyline_home": -149.0,
+        "moneyline_away": 126.0,
+        "fair_odds_home": 57.5,
+        "fair_odds_away": 42.5
+      },
+      "home_stats": {
+        "ppg": 30.4412,
+        "papg": 20.9916,
+        "off_epa_per_play": 0.1276,
+        "def_epa_per_play": -0.0214,
+        "epa_margin": 0.149,
+        "turnover_margin": 0.8571,
+        "off_explosive_rate": 0.1562,
+        "def_explosive_rate": 0.132,
+        "third_down_pct": 0.4458,
+        "redzone_td_rate": 0.2167,
+        "cpoe": 2.4471,
+        "sack_rate_allowed": 0.0667,
+        "int_rate": 0.0249
+      },
+      "away_stats": {
+        "ppg": 25.4412,
+        "papg": 17.1555,
+        "off_epa_per_play": 0.1095,
+        "def_epa_per_play": -0.0606,
+        "epa_margin": 0.17,
+        "turnover_margin": 5.4286,
+        "off_explosive_rate": 0.1453,
+        "def_explosive_rate": 0.1066,
+        "third_down_pct": 0.4095,
+        "redzone_td_rate": 0.2152,
+        "cpoe": 1.4712,
+        "sack_rate_allowed": 0.0476,
+        "int_rate": 0.0135
+      },
+      "home_qb": {
+        "name": "Josh Allen",
+        "rate": 104.6,
+        "note": null
+      },
+      "away_qb": {
+        "name": "Patrick Mahomes",
+        "rate": 86.6,
+        "note": "Tore ACL/LCL Dec. 2025, missed the rest of the season -- trailing stats don't reflect a healthy Mahomes."
+      },
+      "raw_model_home_wp": 49.1,
+      "raw_model_away_wp": 50.9,
+      "context": null,
+      "spread_pick": {
+        "our_margin": -0.2,
+        "market_line": 3.0,
+        "edge_points": -3.2,
+        "pick_home": false
+      },
+      "bet": {
+        "pick": "KC +3.0",
+        "confidence": 4,
+        "note": "Model margin is -3.2 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "PIT",
+      "away_team": "DEN",
+      "kickoff": "2026-11-27",
+      "time_et": "15:00",
+      "location": "Home",
+      "home_win_prob": 53.3,
+      "away_win_prob": 46.7,
+      "home_score_est": 21.0,
+      "away_score_est": 20.0,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": -0.3274,
+          "favors": "away"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 0.1241,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": -0.0911,
+          "favors": "away"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": 0.2617,
+          "favors": "home"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.111,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": -0.5276,
+          "favors": "away"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": -0.0508,
+          "favors": "away"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.004,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": -0.4012,
+          "favors": "away"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": 0.0115,
+          "favors": "home"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.2449,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0879,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": -3.0,
+        "total_line": 38.5,
+        "moneyline_home": 134.0,
+        "moneyline_away": -159.0,
+        "fair_odds_home": 41.0,
+        "fair_odds_away": 59.0
+      },
+      "home_stats": {
+        "ppg": 21.958,
+        "papg": 20.8613,
+        "off_epa_per_play": -0.0043,
+        "def_epa_per_play": -0.0121,
+        "epa_margin": 0.0078,
+        "turnover_margin": 6.2857,
+        "off_explosive_rate": 0.116,
+        "def_explosive_rate": 0.1121,
+        "third_down_pct": 0.3805,
+        "redzone_td_rate": 0.1584,
+        "cpoe": -1.4562,
+        "sack_rate_allowed": 0.0707,
+        "int_rate": 0.0152
+      },
+      "away_stats": {
+        "ppg": 23.5966,
+        "papg": 20.2269,
+        "off_epa_per_play": 0.0197,
+        "def_epa_per_play": -0.0164,
+        "epa_margin": 0.0361,
+        "turnover_margin": 5.2857,
+        "off_explosive_rate": 0.1008,
+        "def_explosive_rate": 0.1094,
+        "third_down_pct": 0.3621,
+        "redzone_td_rate": 0.2185,
+        "cpoe": -1.4148,
+        "sack_rate_allowed": 0.0356,
+        "int_rate": 0.0155
+      },
+      "home_qb": {
+        "name": "Aaron Rodgers",
+        "rate": 93.8,
+        "note": null
+      },
+      "away_qb": {
+        "name": "Bo Nix",
+        "rate": 87.7,
+        "note": "Returning from offseason ankle surgery."
+      },
+      "raw_model_home_wp": 53.3,
+      "raw_model_away_wp": 46.7,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 1.0,
+        "market_line": -3.0,
+        "edge_points": 4.0,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "PIT +3.0",
+        "confidence": 4,
+        "note": "Model margin is +4.0 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "CIN",
+      "away_team": "NO",
+      "kickoff": "2026-11-29",
+      "time_et": "13:00",
+      "location": "Home",
+      "home_win_prob": 84.1,
+      "away_win_prob": 15.9,
+      "home_score_est": 31.9,
+      "away_score_est": 20.0,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 1.3303,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 0.851,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": 0.3228,
+          "favors": "home"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": 0.3187,
+          "favors": "home"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.3448,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": 0.5514,
+          "favors": "home"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.3282,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": 0.6616,
+          "favors": "home"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": 0.2583,
+          "favors": "home"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": 0.0445,
+          "favors": "home"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": -0.062,
+          "favors": "away"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.1169,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": 10.0,
+        "total_line": 50.5,
+        "moneyline_home": -610.0,
+        "moneyline_away": 449.0,
+        "fair_odds_home": 82.5,
+        "fair_odds_away": 17.5
+      },
+      "home_stats": {
+        "ppg": 28.2437,
+        "papg": 23.6261,
+        "off_epa_per_play": 0.107,
+        "def_epa_per_play": 0.0447,
+        "epa_margin": 0.0623,
+        "turnover_margin": 2.0,
+        "off_explosive_rate": 0.1362,
+        "def_explosive_rate": 0.1489,
+        "third_down_pct": 0.483,
+        "redzone_td_rate": 0.2669,
+        "cpoe": 7.2583,
+        "sack_rate_allowed": 0.0491,
+        "int_rate": 0.0179
+      },
+      "away_stats": {
+        "ppg": 20.5,
+        "papg": 24.7941,
+        "off_epa_per_play": -0.0475,
+        "def_epa_per_play": 0.0106,
+        "epa_margin": -0.0582,
+        "turnover_margin": -4.8571,
+        "off_explosive_rate": 0.0975,
+        "def_explosive_rate": 0.1273,
+        "third_down_pct": 0.4258,
+        "redzone_td_rate": 0.2041,
+        "cpoe": 0.368,
+        "sack_rate_allowed": 0.0716,
+        "int_rate": 0.0191
+      },
+      "home_qb": {
+        "name": "Joe Burrow",
+        "rate": 91.0,
+        "note": "Missed 9 games in 2025 (turf toe surgery) -- trailing stats reflect a Burrow-less stretch."
+      },
+      "away_qb": {
+        "name": "Tyler Shough",
+        "rate": 88.7,
+        "note": "New starter after a rookie-year QB competition."
+      },
+      "raw_model_home_wp": 84.1,
+      "raw_model_away_wp": 15.9,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 11.9,
+        "market_line": 10.0,
+        "edge_points": 1.9,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "CIN -10.0",
+        "confidence": 3,
+        "note": "Model margin is +1.9 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "CLE",
+      "away_team": "LV",
+      "kickoff": "2026-11-29",
+      "time_et": "20:20",
+      "location": "Home",
+      "home_win_prob": 55.7,
+      "away_win_prob": 44.3,
+      "home_score_est": 22.9,
+      "away_score_est": 21.1,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 0.581,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": -0.3782,
+          "favors": "away"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": 0.3085,
+          "favors": "home"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": 0.1115,
+          "favors": "home"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": -0.3732,
+          "favors": "away"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": -0.1613,
+          "favors": "away"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": -0.4618,
+          "favors": "away"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.1243,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": -0.4292,
+          "favors": "away"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": 0.3024,
+          "favors": "home"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.2684,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.1647,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": 4.5,
+        "total_line": 40.5,
+        "moneyline_home": -221.0,
+        "moneyline_away": 184.0,
+        "fair_odds_home": 66.2,
+        "fair_odds_away": 33.8
+      },
+      "home_stats": {
+        "ppg": 18.1176,
+        "papg": 22.084,
+        "off_epa_per_play": -0.0786,
+        "def_epa_per_play": -0.0292,
+        "epa_margin": -0.0493,
+        "turnover_margin": -2.7143,
+        "off_explosive_rate": 0.1044,
+        "def_explosive_rate": 0.1286,
+        "third_down_pct": 0.3519,
+        "redzone_td_rate": 0.1571,
+        "cpoe": -2.6903,
+        "sack_rate_allowed": 0.1056,
+        "int_rate": 0.0162
+      },
+      "away_stats": {
+        "ppg": 22.1137,
+        "papg": 28.5765,
+        "off_epa_per_play": -0.0486,
+        "def_epa_per_play": 0.0773,
+        "epa_margin": -0.1258,
+        "turnover_margin": 0.3333,
+        "off_explosive_rate": 0.1172,
+        "def_explosive_rate": 0.145,
+        "third_down_pct": 0.4138,
+        "redzone_td_rate": 0.1755,
+        "cpoe": -1.3955,
+        "sack_rate_allowed": 0.0681,
+        "int_rate": 0.0245
+      },
+      "home_qb": {
+        "name": "Deshaun Watson / Shedeur Sanders",
+        "rate": 70.0,
+        "note": "Traded away Myles Garrett (their best defender) to the Rams this offseason."
+      },
+      "away_qb": {
+        "name": "Kirk Cousins",
+        "rate": 81.5,
+        "note": "New starter (signed in 2026) and new HC Klint Kubiak -- 2025 stats are the prior regime's."
+      },
+      "raw_model_home_wp": 55.7,
+      "raw_model_away_wp": 44.3,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 1.8,
+        "market_line": 4.5,
+        "edge_points": -2.7,
+        "pick_home": false
+      },
+      "bet": {
+        "pick": "LV +4.5",
+        "confidence": 3,
+        "note": "Model margin is -2.7 points from the market line."
+      },
+      "qb_watch": "LV's starting QB in the most recent game (F.Mendoza) differs from earlier this season (K.Cousins) -- trailing stats may not reflect the current starter."
+    },
+    {
+      "home_team": "HOU",
+      "away_team": "BAL",
+      "kickoff": "2026-11-29",
+      "time_et": "13:00",
+      "location": "Home",
+      "home_win_prob": 75.0,
+      "away_win_prob": 25.0,
+      "home_score_est": 28.7,
+      "away_score_est": 20.7,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 1.0687,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 1.3746,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": 0.0697,
+          "favors": "home"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.4295,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.0084,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": 0.2921,
+          "favors": "home"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.1872,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.1259,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": 0.3575,
+          "favors": "home"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": 0.3105,
+          "favors": "home"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.1387,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": -0.1901,
+          "favors": "away"
+        }
+      ],
+      "market": {
+        "spread_line": 6.5,
+        "total_line": 47.5,
+        "moneyline_home": -318.0,
+        "moneyline_away": 256.0,
+        "fair_odds_home": 73.0,
+        "fair_odds_away": 27.0
+      },
+      "home_stats": {
+        "ppg": 25.2899,
+        "papg": 20.8151,
+        "off_epa_per_play": 0.0354,
+        "def_epa_per_play": -0.0389,
+        "epa_margin": 0.0742,
+        "turnover_margin": 7.1429,
+        "off_explosive_rate": 0.1301,
+        "def_explosive_rate": 0.1313,
+        "third_down_pct": 0.397,
+        "redzone_td_rate": 0.2179,
+        "cpoe": 0.4948,
+        "sack_rate_allowed": 0.0492,
+        "int_rate": 0.0119
+      },
+      "away_stats": {
+        "ppg": 22.7843,
+        "papg": 25.8431,
+        "off_epa_per_play": 0.0104,
+        "def_epa_per_play": 0.0266,
+        "epa_margin": -0.0161,
+        "turnover_margin": -3.9333,
+        "off_explosive_rate": 0.1428,
+        "def_explosive_rate": 0.1245,
+        "third_down_pct": 0.3956,
+        "redzone_td_rate": 0.1846,
+        "cpoe": 1.8059,
+        "sack_rate_allowed": 0.0804,
+        "int_rate": 0.0205
+      },
+      "home_qb": {
+        "name": "C.J. Stroud",
+        "rate": 89.8,
+        "note": null
+      },
+      "away_qb": {
+        "name": "Lamar Jackson",
+        "rate": 96.7,
+        "note": "Missed multiple games in 2025 to injury -- trailing stats understate a healthy Jackson."
+      },
+      "raw_model_home_wp": 75.0,
+      "raw_model_away_wp": 25.0,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 8.0,
+        "market_line": 6.5,
+        "edge_points": 1.5,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "HOU -6.5",
+        "confidence": 3,
+        "note": "Model margin is +1.5 points from the market line."
+      },
+      "qb_watch": "BAL's starting QB in the most recent game (J.Brissett) differs from earlier this season (J.Fagnano) -- trailing stats may not reflect the current starter."
+    },
+    {
+      "home_team": "IND",
+      "away_team": "NYG",
+      "kickoff": "2026-11-29",
+      "time_et": "13:00",
+      "location": "Home",
+      "home_win_prob": 33.4,
+      "away_win_prob": 66.6,
+      "home_score_est": 21.0,
+      "away_score_est": 26.1,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": -0.8653,
+          "favors": "away"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": -1.1098,
+          "favors": "away"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": -0.3462,
+          "favors": "away"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.2741,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": -0.1987,
+          "favors": "away"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": -0.1292,
+          "favors": "away"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": -0.1958,
+          "favors": "away"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.2169,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": 0.1385,
+          "favors": "home"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": -0.4718,
+          "favors": "away"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": -0.0949,
+          "favors": "away"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0538,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": -6.5,
+        "total_line": 41.5,
+        "moneyline_home": 252.0,
+        "moneyline_away": -311.0,
+        "fair_odds_home": 27.3,
+        "fair_odds_away": 72.7
+      },
+      "home_stats": {
+        "ppg": 21.3765,
+        "papg": 26.2627,
+        "off_epa_per_play": -0.0676,
+        "def_epa_per_play": 0.0379,
+        "epa_margin": -0.1055,
+        "turnover_margin": -8.8,
+        "off_explosive_rate": 0.1134,
+        "def_explosive_rate": 0.1419,
+        "third_down_pct": 0.366,
+        "redzone_td_rate": 0.2018,
+        "cpoe": -4.4073,
+        "sack_rate_allowed": 0.0669,
+        "int_rate": 0.0313
+      },
+      "away_stats": {
+        "ppg": 22.5462,
+        "papg": 22.6639,
+        "off_epa_per_play": 0.0027,
+        "def_epa_per_play": 0.0122,
+        "epa_margin": -0.0096,
+        "turnover_margin": 0.1429,
+        "off_explosive_rate": 0.1217,
+        "def_explosive_rate": 0.1377,
+        "third_down_pct": 0.3989,
+        "redzone_td_rate": 0.2166,
+        "cpoe": -2.1484,
+        "sack_rate_allowed": 0.079,
+        "int_rate": 0.0183
+      },
+      "home_qb": {
+        "name": "Daniel Jones",
+        "rate": 92.6,
+        "note": "Tore his Achilles late in 2025 -- backups finished the season, dragging trailing stats down."
+      },
+      "away_qb": {
+        "name": "Jaxson Dart",
+        "rate": 88.0,
+        "note": null
+      },
+      "raw_model_home_wp": 33.4,
+      "raw_model_away_wp": 66.6,
+      "context": null,
+      "spread_pick": {
+        "our_margin": -5.1,
+        "market_line": -6.5,
+        "edge_points": 1.4,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "IND +6.5",
+        "confidence": 2,
+        "note": "Model margin is +1.4 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "MIA",
+      "away_team": "NYJ",
+      "kickoff": "2026-11-29",
+      "time_et": "13:00",
+      "location": "Home",
+      "home_win_prob": 47.3,
+      "away_win_prob": 52.7,
+      "home_score_est": 20.1,
+      "away_score_est": 20.9,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": -0.2128,
+          "favors": "away"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 0.2116,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": -0.1584,
+          "favors": "away"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.3293,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": -0.0447,
+          "favors": "away"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": 0.1927,
+          "favors": "home"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": -0.1726,
+          "favors": "away"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.6673,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": 0.0669,
+          "favors": "home"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": -0.4357,
+          "favors": "away"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.0063,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0544,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": -3.5,
+        "total_line": 40.5,
+        "moneyline_home": 166.0,
+        "moneyline_away": -198.0,
+        "fair_odds_home": 36.1,
+        "fair_odds_away": 63.9
+      },
+      "home_stats": {
+        "ppg": 17.0462,
+        "papg": 24.9832,
+        "off_epa_per_play": -0.0575,
+        "def_epa_per_play": 0.0734,
+        "epa_margin": -0.1309,
+        "turnover_margin": -2.4286,
+        "off_explosive_rate": 0.1201,
+        "def_explosive_rate": 0.1328,
+        "third_down_pct": 0.3661,
+        "redzone_td_rate": 0.1534,
+        "cpoe": -5.0841,
+        "sack_rate_allowed": 0.0884,
+        "int_rate": 0.0262
+      },
+      "away_stats": {
+        "ppg": 19.4392,
+        "papg": 26.4235,
+        "off_epa_per_play": -0.0151,
+        "def_epa_per_play": 0.0884,
+        "epa_margin": -0.1036,
+        "turnover_margin": -4.1333,
+        "off_explosive_rate": 0.1253,
+        "def_explosive_rate": 0.1234,
+        "third_down_pct": 0.3736,
+        "redzone_td_rate": 0.1314,
+        "cpoe": 1.8649,
+        "sack_rate_allowed": 0.0942,
+        "int_rate": 0.0142
+      },
+      "home_qb": {
+        "name": "Malik Willis",
+        "rate": 87.3,
+        "note": "New starter -- Tua Tagovailoa signed with Atlanta this offseason."
+      },
+      "away_qb": {
+        "name": "Justin Fields",
+        "rate": 75.0,
+        "note": null
+      },
+      "raw_model_home_wp": 47.3,
+      "raw_model_away_wp": 52.7,
+      "context": null,
+      "spread_pick": {
+        "our_margin": -0.8,
+        "market_line": -3.5,
+        "edge_points": 2.7,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "MIA +3.5",
+        "confidence": 3,
+        "note": "Model margin is +2.7 points from the market line."
+      },
+      "qb_watch": "MIA's starting QB in the most recent game (K.McCord) differs from earlier this season (M.Willis) -- trailing stats may not reflect the current starter. NYJ's starting QB in the most recent game (G.Smith) differs from earlier this season (C.Klubnik) -- trailing stats may not reflect the current starter."
+    },
+    {
+      "home_team": "MIN",
+      "away_team": "ATL",
+      "kickoff": "2026-11-29",
+      "time_et": "13:00",
+      "location": "Home",
+      "home_win_prob": 70.5,
+      "away_win_prob": 29.5,
+      "home_score_est": 21.3,
+      "away_score_est": 14.9,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 0.9183,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 0.8333,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": 0.0491,
+          "favors": "home"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": 0.1841,
+          "favors": "home"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.1085,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": -0.1423,
+          "favors": "away"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": -0.1715,
+          "favors": "away"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": 0.4111,
+          "favors": "home"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": -0.3987,
+          "favors": "away"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": 0.2434,
+          "favors": "home"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.4219,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": -0.2209,
+          "favors": "away"
+        }
+      ],
+      "market": {
+        "spread_line": 7.0,
+        "total_line": 41.5,
+        "moneyline_home": -340.0,
+        "moneyline_away": 273.0,
+        "fair_odds_home": 74.2,
+        "fair_odds_away": 25.8
+      },
+      "home_stats": {
+        "ppg": 19.0672,
+        "papg": 17.0966,
+        "off_epa_per_play": -0.0892,
+        "def_epa_per_play": -0.0766,
+        "epa_margin": -0.0126,
+        "turnover_margin": 2.5714,
+        "off_explosive_rate": 0.1201,
+        "def_explosive_rate": 0.1158,
+        "third_down_pct": 0.3621,
+        "redzone_td_rate": 0.1796,
+        "cpoe": -1.9147,
+        "sack_rate_allowed": 0.0901,
+        "int_rate": 0.0262
+      },
+      "away_stats": {
+        "ppg": 20.2899,
+        "papg": 25.1681,
+        "off_epa_per_play": -0.056,
+        "def_epa_per_play": 0.0278,
+        "epa_margin": -0.0838,
+        "turnover_margin": -4.1429,
+        "off_explosive_rate": 0.129,
+        "def_explosive_rate": 0.1318,
+        "third_down_pct": 0.3441,
+        "redzone_td_rate": 0.1958,
+        "cpoe": -6.1957,
+        "sack_rate_allowed": 0.0552,
+        "int_rate": 0.0329
+      },
+      "home_qb": {
+        "name": "Kyler Murray",
+        "rate": 75.3,
+        "note": "New starter -- signed after Arizona cut him, winning the job over J.J. McCarthy."
+      },
+      "away_qb": {
+        "name": "Cooper Rush",
+        "rate": null,
+        "note": "Chaotic QB situation: Michael Penix Jr. (ACL recovery) hasn't played, Tua Tagovailoa was named starter but suffered an oblique injury in practice, so Rush made the Week 1 start. Reports suggest the team wants Penix as starter once healthy (target: Week 2-3) -- treat this as unsettled and likely to change week to week."
+      },
+      "raw_model_home_wp": 70.5,
+      "raw_model_away_wp": 29.5,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 6.4,
+        "market_line": 7.0,
+        "edge_points": -0.6,
+        "pick_home": false
+      },
+      "bet": {
+        "pick": "ATL +7.0",
+        "confidence": 2,
+        "note": "Model margin is -0.6 points from the market line."
+      },
+      "qb_watch": "MIN's starting QB in the most recent game (K.Cousins) differs from earlier this season (C.Wentz, K.Murray) -- trailing stats may not reflect the current starter."
+    },
+    {
+      "home_team": "JAX",
+      "away_team": "TEN",
+      "kickoff": "2026-11-29",
+      "time_et": "13:00",
+      "location": "Home",
+      "home_win_prob": 90.0,
+      "away_win_prob": 10.0,
+      "home_score_est": 32.9,
+      "away_score_est": 17.6,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 3.5278,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 1.6311,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": 0.7425,
+          "favors": "home"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": 1.5446,
+          "favors": "home"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.6348,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": 0.1015,
+          "favors": "home"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.4933,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": 0.2215,
+          "favors": "home"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": 0.1071,
+          "favors": "home"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": -0.1656,
+          "favors": "away"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.079,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0798,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": 14.5,
+        "total_line": 47.5,
+        "moneyline_home": -1240.0,
+        "moneyline_away": 770.0,
+        "fair_odds_home": 89.0,
+        "fair_odds_away": 11.0
+      },
+      "home_stats": {
+        "ppg": 28.4664,
+        "papg": 17.5756,
+        "off_epa_per_play": 0.093,
+        "def_epa_per_play": -0.0929,
+        "epa_margin": 0.1859,
+        "turnover_margin": 9.4286,
+        "off_explosive_rate": 0.1447,
+        "def_explosive_rate": 0.1134,
+        "third_down_pct": 0.4408,
+        "redzone_td_rate": 0.1805,
+        "cpoe": 1.576,
+        "sack_rate_allowed": 0.0564,
+        "int_rate": 0.0209
+      },
+      "away_stats": {
+        "ppg": 18.8445,
+        "papg": 28.7479,
+        "off_epa_per_play": -0.0708,
+        "def_epa_per_play": 0.1114,
+        "epa_margin": -0.1821,
+        "turnover_margin": -3.7143,
+        "off_explosive_rate": 0.1071,
+        "def_explosive_rate": 0.1452,
+        "third_down_pct": 0.3355,
+        "redzone_td_rate": 0.169,
+        "cpoe": -0.7305,
+        "sack_rate_allowed": 0.0657,
+        "int_rate": 0.0163
+      },
+      "home_qb": {
+        "name": "Trevor Lawrence",
+        "rate": 91.1,
+        "note": null
+      },
+      "away_qb": {
+        "name": "Cam Ward",
+        "rate": 78.4,
+        "note": null
+      },
+      "raw_model_home_wp": 90.0,
+      "raw_model_away_wp": 10.0,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 15.3,
+        "market_line": 14.5,
+        "edge_points": 0.8,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "JAX -14.5",
+        "confidence": 2,
+        "note": "Model margin is +0.8 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "ARI",
+      "away_team": "WAS",
+      "kickoff": "2026-11-29",
+      "time_et": "16:25",
+      "location": "Home",
+      "home_win_prob": 35.9,
+      "away_win_prob": 64.1,
+      "home_score_est": 21.5,
+      "away_score_est": 25.8,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": -1.0584,
+          "favors": "away"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": -0.5697,
+          "favors": "away"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": -0.3763,
+          "favors": "away"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.9301,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.248,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": -0.3382,
+          "favors": "away"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.2992,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.1588,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": -0.0637,
+          "favors": "away"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": -0.235,
+          "favors": "away"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": -0.0063,
+          "favors": "away"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": -0.1076,
+          "favors": "away"
+        }
+      ],
+      "market": {
+        "spread_line": -7.5,
+        "total_line": 42.5,
+        "moneyline_home": 324.0,
+        "moneyline_away": -411.0,
+        "fair_odds_home": 22.7,
+        "fair_odds_away": 77.3
+      },
+      "home_stats": {
+        "ppg": 18.302,
+        "papg": 29.1882,
+        "off_epa_per_play": -0.0401,
+        "def_epa_per_play": 0.1058,
+        "epa_margin": -0.1459,
+        "turnover_margin": -2.7333,
+        "off_explosive_rate": 0.0934,
+        "def_explosive_rate": 0.1375,
+        "third_down_pct": 0.3804,
+        "redzone_td_rate": 0.1475,
+        "cpoe": 0.106,
+        "sack_rate_allowed": 0.0739,
+        "int_rate": 0.0192
+      },
+      "away_stats": {
+        "ppg": 21.5546,
+        "papg": 24.937,
+        "off_epa_per_play": 0.0022,
+        "def_epa_per_play": 0.0594,
+        "epa_margin": -0.0571,
+        "turnover_margin": 1.8571,
+        "off_explosive_rate": 0.1203,
+        "def_explosive_rate": 0.1221,
+        "third_down_pct": 0.3392,
+        "redzone_td_rate": 0.1861,
+        "cpoe": 1.7594,
+        "sack_rate_allowed": 0.0683,
+        "int_rate": 0.0127
+      },
+      "home_qb": {
+        "name": "Jacoby Brissett",
+        "rate": 78.2,
+        "note": "Kyler Murray cut for the season (foot); Brissett starts under new HC Mike LaFleur."
+      },
+      "away_qb": {
+        "name": "Jayden Daniels",
+        "rate": 85.5,
+        "note": "Missed 10 games in 2025 (knee/hamstring/elbow), shut down in December."
+      },
+      "raw_model_home_wp": 35.9,
+      "raw_model_away_wp": 64.1,
+      "context": null,
+      "spread_pick": {
+        "our_margin": -4.3,
+        "market_line": -7.5,
+        "edge_points": 3.2,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "ARI +7.5",
+        "confidence": 4,
+        "note": "Model margin is +3.2 points from the market line."
+      },
+      "qb_watch": "ARI's starting QB in the most recent game (J.Johnson) differs from earlier this season (C.Beck, G.Minshew, J.Brissett) -- trailing stats may not reflect the current starter."
+    },
+    {
+      "home_team": "SF",
+      "away_team": "SEA",
+      "kickoff": "2026-11-29",
+      "time_et": "16:25",
+      "location": "Home",
+      "home_win_prob": 77.9,
+      "away_win_prob": 22.1,
+      "home_score_est": 27.0,
+      "away_score_est": 17.8,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 0.6553,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 0.9928,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": -0.0555,
+          "favors": "away"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.0929,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.7055,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": 0.7264,
+          "favors": "home"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": 0.2054,
+          "favors": "home"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": 0.4481,
+          "favors": "home"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": 0.2011,
+          "favors": "home"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": 0.3176,
+          "favors": "home"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": -0.3842,
+          "favors": "away"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": -0.0744,
+          "favors": "away"
+        }
+      ],
+      "market": {
+        "spread_line": 3.0,
+        "total_line": 46.5,
+        "moneyline_home": -176.0,
+        "moneyline_away": 148.0,
+        "fair_odds_home": 61.3,
+        "fair_odds_away": 38.7
+      },
+      "home_stats": {
+        "ppg": 29.916,
+        "papg": 20.9496,
+        "off_epa_per_play": 0.1726,
+        "def_epa_per_play": -0.0028,
+        "epa_margin": 0.1754,
+        "turnover_margin": 2.7143,
+        "off_explosive_rate": 0.1474,
+        "def_explosive_rate": 0.0998,
+        "third_down_pct": 0.5187,
+        "redzone_td_rate": 0.2683,
+        "cpoe": 6.1765,
+        "sack_rate_allowed": 0.0453,
+        "int_rate": 0.0192
+      },
+      "away_stats": {
+        "ppg": 24.0462,
+        "papg": 17.4076,
+        "off_epa_per_play": 0.0002,
+        "def_epa_per_play": -0.0805,
+        "epa_margin": 0.0807,
+        "turnover_margin": -5.2857,
+        "off_explosive_rate": 0.1316,
+        "def_explosive_rate": 0.0815,
+        "third_down_pct": 0.4017,
+        "redzone_td_rate": 0.1855,
+        "cpoe": 1.5104,
+        "sack_rate_allowed": 0.0629,
+        "int_rate": 0.0279
+      },
+      "home_qb": {
+        "name": "Brock Purdy",
+        "rate": 98.8,
+        "note": "TE Kittle, DE Bosa, WR Mike Evans all working back from injuries."
+      },
+      "away_qb": {
+        "name": "Sam Darnold",
+        "rate": 97.9,
+        "note": "Lost RB Kenneth Walker III (SB LX MVP) and OC Klint Kubiak (now Raiders HC)."
+      },
+      "raw_model_home_wp": 77.9,
+      "raw_model_away_wp": 22.1,
+      "context": null,
+      "spread_pick": {
+        "our_margin": 9.2,
+        "market_line": 3.0,
+        "edge_points": 6.2,
+        "pick_home": true
+      },
+      "bet": {
+        "pick": "SF -3.0",
+        "confidence": 5,
+        "note": "Model margin is +6.2 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "LAC",
+      "away_team": "NE",
+      "kickoff": "2026-11-29",
+      "time_et": "16:05",
+      "location": "Home",
+      "home_win_prob": 31.3,
+      "away_win_prob": 68.7,
+      "home_score_est": 19.1,
+      "away_score_est": 24.8,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": -1.3185,
+          "favors": "away"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 0.3369,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": -0.4491,
+          "favors": "away"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.5761,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": -0.1774,
+          "favors": "away"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": -0.3014,
+          "favors": "away"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": -0.1694,
+          "favors": "away"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.9273,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": -0.4087,
+          "favors": "away"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": -0.0399,
+          "favors": "away"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": -0.0561,
+          "favors": "away"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0277,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": 1.5,
+        "total_line": 35.5,
+        "moneyline_home": -114.0,
+        "moneyline_away": -104.0,
+        "fair_odds_home": 51.1,
+        "fair_odds_away": 48.9
+      },
+      "home_stats": {
+        "ppg": 18.1849,
+        "papg": 24.7143,
+        "off_epa_per_play": -0.1,
+        "def_epa_per_play": 0.0146,
+        "epa_margin": -0.1146,
+        "turnover_margin": -3.5714,
+        "off_explosive_rate": 0.1144,
+        "def_explosive_rate": 0.1283,
+        "third_down_pct": 0.3832,
+        "redzone_td_rate": 0.1657,
+        "cpoe": -3.1956,
+        "sack_rate_allowed": 0.1138,
+        "int_rate": 0.0308
+      },
+      "away_stats": {
+        "ppg": 24.021,
+        "papg": 22.6639,
+        "off_epa_per_play": 0.0535,
+        "def_epa_per_play": 0.0326,
+        "epa_margin": 0.021,
+        "turnover_margin": -6.2857,
+        "off_explosive_rate": 0.1454,
+        "def_explosive_rate": 0.1319,
+        "third_down_pct": 0.4127,
+        "redzone_td_rate": 0.2001,
+        "cpoe": 6.4614,
+        "sack_rate_allowed": 0.078,
+        "int_rate": 0.0297
+      },
+      "home_qb": {
+        "name": "Justin Herbert",
+        "rate": 89.8,
+        "note": null
+      },
+      "away_qb": {
+        "name": "Drake Maye",
+        "rate": 113.0,
+        "note": "Traded for A.J. Brown, added Romeo Doubs, rebuilt interior O-line."
+      },
+      "raw_model_home_wp": 31.3,
+      "raw_model_away_wp": 68.7,
+      "context": null,
+      "spread_pick": {
+        "our_margin": -5.7,
+        "market_line": 1.5,
+        "edge_points": -7.2,
+        "pick_home": false
+      },
+      "bet": {
+        "pick": "NE +1.5",
+        "confidence": 5,
+        "note": "Model margin is -7.2 points from the market line."
+      },
+      "qb_watch": null
+    },
+    {
+      "home_team": "TB",
+      "away_team": "CAR",
+      "kickoff": "2026-11-30",
+      "time_et": "20:15",
+      "location": "Home",
+      "home_win_prob": 48.5,
+      "away_win_prob": 51.5,
+      "home_score_est": 23.4,
+      "away_score_est": 23.9,
+      "feature_breakdown": [
+        {
+          "key": "strength",
+          "label": "Strength Composite (Point Diff + EPA Margin)",
+          "weight": 1.0,
+          "weighted_diff": 0.2968,
+          "favors": "home"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover Margin",
+          "weight": 0.55,
+          "weighted_diff": 0.1596,
+          "favors": "home"
+        },
+        {
+          "key": "ypp",
+          "label": "Yards per Play Margin",
+          "weight": 0.3,
+          "weighted_diff": -0.1861,
+          "favors": "away"
+        },
+        {
+          "key": "explosive",
+          "label": "Explosive Play Rate",
+          "weight": 0.35,
+          "weighted_diff": -0.8048,
+          "favors": "away"
+        },
+        {
+          "key": "third_down",
+          "label": "Third Down Conversion %",
+          "weight": 0.25,
+          "weighted_diff": 0.1527,
+          "favors": "home"
+        },
+        {
+          "key": "redzone",
+          "label": "Red Zone TD Rate",
+          "weight": 0.28,
+          "weighted_diff": -0.2609,
+          "favors": "away"
+        },
+        {
+          "key": "redzone_trips",
+          "label": "Red Zone Trips / Game",
+          "weight": 0.25,
+          "weighted_diff": -0.1292,
+          "favors": "away"
+        },
+        {
+          "key": "cpoe",
+          "label": "Completion % Over Expected",
+          "weight": 0.3,
+          "weighted_diff": -0.4285,
+          "favors": "away"
+        },
+        {
+          "key": "sack_protect",
+          "label": "Pass Protection (Sack Rate Allowed)",
+          "weight": 0.22,
+          "weighted_diff": -0.1902,
+          "favors": "away"
+        },
+        {
+          "key": "ball_security",
+          "label": "Ball Security (INT Rate)",
+          "weight": 0.22,
+          "weighted_diff": -0.2856,
+          "favors": "away"
+        },
+        {
+          "key": "havoc",
+          "label": "Havoc Rate (Defensive Disruption)",
+          "weight": 0.15,
+          "weighted_diff": 0.277,
+          "favors": "home"
+        },
+        {
+          "key": "yac",
+          "label": "Yards After Catch",
+          "weight": 0.12,
+          "weighted_diff": 0.0921,
+          "favors": "home"
+        }
+      ],
+      "market": {
+        "spread_line": 3.0,
+        "total_line": 43.5,
+        "moneyline_home": -154.0,
+        "moneyline_away": 130.0,
+        "fair_odds_home": 58.2,
+        "fair_odds_away": 41.8
+      },
+      "home_stats": {
+        "ppg": 22.3151,
+        "papg": 21.8361,
+        "off_epa_per_play": -0.047,
+        "def_epa_per_play": -0.0514,
+        "epa_margin": 0.0044,
+        "turnover_margin": 5.0,
+        "off_explosive_rate": 0.107,
+        "def_explosive_rate": 0.122,
+        "third_down_pct": 0.3926,
+        "redzone_td_rate": 0.1693,
+        "cpoe": -3.557,
+        "sack_rate_allowed": 0.0909,
+        "int_rate": 0.0264
+      },
+      "away_stats": {
+        "ppg": 23.3697,
+        "papg": 25.6008,
+        "off_epa_per_play": 0.0176,
+        "def_epa_per_play": 0.0277,
+        "epa_margin": -0.0101,
+        "turnover_margin": 3.7143,
+        "off_explosive_rate": 0.1316,
+        "def_explosive_rate": 0.11,
+        "third_down_pct": 0.3673,
+        "redzone_td_rate": 0.1991,
+        "cpoe": 0.905,
+        "sack_rate_allowed": 0.0742,
+        "int_rate": 0.0185
+      },
+      "home_qb": {
+        "name": "Baker Mayfield",
+        "rate": 89.9,
+        "note": null
+      },
+      "away_qb": {
+        "name": "Bryce Young",
+        "rate": 87.9,
+        "note": null
+      },
+      "raw_model_home_wp": 48.5,
+      "raw_model_away_wp": 51.5,
+      "context": null,
+      "spread_pick": {
+        "our_margin": -0.5,
+        "market_line": 3.0,
+        "edge_points": -3.5,
+        "pick_home": false
+      },
+      "bet": {
+        "pick": "CAR +3.0",
+        "confidence": 4,
+        "note": "Model margin is -3.5 points from the market line."
+      },
+      "qb_watch": null
+    }
+  ]
+}
