@@ -169,8 +169,21 @@
         "note": "Model margin is +3.0 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Coleman Shelton (C) listed as Out (Hamstring)",
+        "Steve Avila (G) listed as Out (Hamstring)",
+        "Terrance Ferguson (TE) listed as Out (Ankle, Hamstring)"
+      ],
+      "away_team_injuries": [
+        "Kevin Zeitler (G) listed as Questionable (Triceps)",
+        "Zaire Franklin (LB) listed as Questionable (Shin)",
+        "Josh Jacobs (RB) listed as Questionable (Finger)",
+        "Micah Parsons (LB) listed as Questionable (Knee)",
+        "Sean Rhyan (C) listed as Questionable (Ankle)",
+        "Bo Melton (WR) listed as Questionable (Thigh)",
+        "Skyy Moore (WR) listed as Questionable (Ankle)",
+        "Travis Glover (G) listed as Questionable (Shoulder)"
+      ]
     },
     {
       "home_team": "DET",
