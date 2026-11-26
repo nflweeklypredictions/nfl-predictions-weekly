@@ -344,8 +344,19 @@
         "note": "Model margin is +8.9 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Chuck Clark (S) listed as Questionable (Hamstring)",
+        "DJ Wonnum (DE) listed as Questionable (Back)",
+        "Ennis Rakestraw Jr. (CB) listed as Out (Shoulder)",
+        "Skyler Gill-Howard (DT) listed as Out (Knee)"
+      ],
+      "away_team_injuries": [
+        "Elijah Hicks (S) listed as Out (Concussion)",
+        "D'Marco Jackson (LB) listed as Questionable (Elbow)",
+        "Kyler Gordon (CB) listed as Out (Shoulder)",
+        "Roschon Johnson (RB) listed as Out (Ankle)",
+        "Tyrique Stevenson (CB) listed as Questionable (Groin)"
+      ]
     },
     {
       "home_team": "DAL",
@@ -506,8 +517,18 @@
         "note": "Model margin is -1.0 points from the market line."
       },
       "qb_watch": "PHI's starting QB in the most recent game (J.Milton) differs from earlier this season (T.McKee) -- trailing stats may not reflect the current starter.",
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "P.J. Locke (S) listed as Out (Concussion)",
+        "Jalen Thompson (S) listed as Questionable (Hamstring)",
+        "Jake Ferguson (TE) listed as Out (Knee, Ankle)",
+        "Jonathan Mingo (WR) listed as Out (Ankle)",
+        "Tyler Booker (G) listed as Out (Ankle)",
+        "Devin Moore (CB) listed as Questionable (Hip)"
+      ],
+      "away_team_injuries": [
+        "Jonathan Jones (CB) listed as Out (Ankle)",
+        "Arnold Ebiketie (LB) listed as Out (Oblique)"
+      ]
     },
     {
       "home_team": "BUF",
@@ -668,8 +689,20 @@
         "note": "Model margin is -3.2 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
-      "away_team_injuries": []
+      "home_team_injuries": [
+        "Christian Benford (CB) listed as Questionable (Groin)",
+        "O'Cyrus Torrence (G) listed as Questionable (Ankle)",
+        "Dorian Williams (LB) listed as Questionable (Calf)",
+        "Dalton Kincaid (TE) listed as Questionable (Thumb, Ankle)",
+        "T.J. Sanders (DE) listed as Questionable (Shoulder)"
+      ],
+      "away_team_injuries": [
+        "Jaylon Moore (T) listed as Out (Ankle)",
+        "Noah Gray (TE) listed as Questionable (Rib)",
+        "Kenneth Walker III (RB) listed as Out (Groin)",
+        "Omarr Norman-Lott (DT) listed as Out (Knee)",
+        "Peter Woods (DT) listed as Questionable (Neck)"
+      ]
     },
     {
       "home_team": "PIT",
@@ -831,7 +864,10 @@
       },
       "qb_watch": null,
       "home_team_injuries": [],
-      "away_team_injuries": []
+      "away_team_injuries": [
+        "Taylor Rapp (S) listed as Out (Quadricep)",
+        "Sai'vion Jones (DE) listed as Out (Hamstring)"
+      ]
     },
     {
       "home_team": "CIN",
