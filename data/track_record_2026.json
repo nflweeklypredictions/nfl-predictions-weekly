@@ -2,7 +2,7 @@
   "season": 2026,
   "overall": {
     "correct": 110,
-    "total": 165
+    "total": 167
   },
   "weeks": {
     "1": {
@@ -19,7 +19,7 @@
     },
     "12": {
       "correct": 1,
-      "total": 2
+      "total": 4
     },
     "2": {
       "correct": 9,
@@ -101,7 +101,7 @@
     },
     "BUF": {
       "correct": 8,
-      "total": 10
+      "total": 11
     },
     "IND": {
       "correct": 9,
@@ -161,7 +161,7 @@
     },
     "PHI": {
       "correct": 8,
-      "total": 10
+      "total": 11
     },
     "WAS": {
       "correct": 6,
@@ -173,11 +173,11 @@
     },
     "DAL": {
       "correct": 7,
-      "total": 11
+      "total": 12
     },
     "KC": {
       "correct": 8,
-      "total": 10
+      "total": 11
     },
     "DEN": {
       "correct": 6,
@@ -185,9 +185,9 @@
     }
   },
   "ats_overall": {
-    "wins": 80,
+    "wins": 81,
     "losses": 80,
-    "pushes": 5
+    "pushes": 6
   },
   "ats_weeks": {
     "1": {
@@ -206,9 +206,9 @@
       "pushes": 0
     },
     "12": {
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "pushes": 0
+      "pushes": 1
     },
     "2": {
       "wins": 6,
