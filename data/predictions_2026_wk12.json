@@ -863,10 +863,17 @@
         "note": "Model margin is +4.0 points from the market line."
       },
       "qb_watch": null,
-      "home_team_injuries": [],
+      "home_team_injuries": [
+        "Cole Holcomb (LB) listed as Questionable (Heel)",
+        "Alex Highsmith (LB) listed as Out (Ankle)",
+        "Ben Skowronek (WR) listed as Out (Calf)",
+        "Gennings Dunker (G) listed as Out (Knee)"
+      ],
       "away_team_injuries": [
         "Taylor Rapp (S) listed as Out (Quadricep)",
-        "Sai'vion Jones (DE) listed as Out (Hamstring)"
+        "Tyler Badie (RB) listed as Questionable (Thumb)",
+        "Sai'vion Jones (DE) listed as Out (Hamstring)",
+        "Caleb Lohner (TE) listed as Out (Foot)"
       ]
     },
     {
